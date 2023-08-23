@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "3e409df397a81057",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe03379bef18b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e07cc1fff8b5a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44f0c763aa206a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d69a1f9230a18c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090bc5320d2033a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0da8a5ab15fad11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27f3d38438947dcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69d0bca4e67fb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "864eb085db4f8063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc392e76e9db6d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be433882746e54c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4718fac586edd9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5837fd57f788fdd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "090bc5320d2033a3",
+  "lastOpenFiles": [
+    "read_character_data.py",
+    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref/ref_rogue_1_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3.md",
+    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref/ref_rogue_1.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_1.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_3.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_1.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_3.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_1.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_3.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_1.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_3.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_2.md",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_1.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_3.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_2.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_1.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_4.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_2.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_3.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_1.md",
+    "ArknightsGameData/ja_JP/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
+    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord",
+    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1",
+    "ArknightsGameData/ja_JP/story/[uc]info/obt/guide/beg",
+    "ArknightsGameData/ja_JP/story/[uc]info/activities/act19side/level",
+    "ArknightsGameData/ja_JP/story/obt/rune/rune_season_0_1",
+    "ArknightsGameData/ja_JP/story/obt/tutorial/training",
+    "ArknightsGameData/ja_JP/story/obt/tutorial/level"
+  ]
+}
