@@ -8,15 +8,15 @@ import json
 import pandas as pd
 
 
-character_table_path = 'E:\OneDrive\Code\Github\ArknightsGameData\zh_CN\gamedata\excel\character_table.json'
+character_table_path = 'ArknightsGameData\zh_CN\excel\character_table.json'
 
 # 使用 with 语句打开json文件，确保在操作完成后自动关闭文件
 with open(character_table_path, 'r', encoding='utf-8') as file:
     json_data = json.load(file)
 
 #查看char_285_medic2的所有属性
-for key in json_data["char_285_medic2"].keys():
-    print(key)
+# for key in json_data["char_285_medic2"].keys():
+#     print(key)
 
 
 def get_char_keys_list():
@@ -32,6 +32,7 @@ def get_name_list():
 
 if __name__ == '__main__':
     char_keys_list=get_char_keys_list()
+    name_list=get_name_list()
 
     # 查找未插入数据库的干员
     op_not_in_db = search_sql(char_keys_list)

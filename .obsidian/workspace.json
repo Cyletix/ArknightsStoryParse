@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe03379bef18b93",
+        "id": "7b83f210578fccb8",
         "type": "tabs",
         "children": [
           {
-            "id": "b8e07cc1fff8b5a8",
+            "id": "287017f2897971dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "c391395a2342d4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "凯尔希",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "69d0bca4e67fb42e",
@@ -81,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,43 +150,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "090bc5320d2033a3",
+  "active": "287017f2897971dd",
   "lastOpenFiles": [
-    "read_character_data.py",
-    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref/ref_rogue_1_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_3.md",
-    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref/ref_rogue_1.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_3_1.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_3.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_1_1.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_3.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_1.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_3.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_2_1.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_3.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_2.md",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_1_1.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_3.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_2.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_1.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_4.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_2.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_3.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_1.md",
-    "ArknightsGameData/ja_JP/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
-    "ArknightsGameData/ja_JP/story/obt/roguelike/ro1/ref",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/monthrecord",
-    "ArknightsGameData/ja_JP/story/obt/rogue/rogue_2/endbook",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro2",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/roguelike/ro1",
-    "ArknightsGameData/ja_JP/story/[uc]info/obt/guide/beg",
-    "ArknightsGameData/ja_JP/story/[uc]info/activities/act19side/level",
-    "ArknightsGameData/ja_JP/story/obt/rune/rune_season_0_1",
-    "ArknightsGameData/ja_JP/story/obt/tutorial/training",
-    "ArknightsGameData/ja_JP/story/obt/tutorial/level"
+    "README.md",
+    "ArknightsGameData/zh_CN/story/obt/guide/beg/2_guide_to_home.md",
+    "Pasted image 20230824033130.png",
+    "ArknightsOperator/凯尔希.md",
+    "Pasted image 20230824033004.png",
+    "Pasted image 20230824032940.png",
+    "Pasted image 20230824032900.png",
+    "ArknightsOperator/陈.md",
+    "ArknightsOperator/陈晖洁.md",
+    "ArknightsGameData/zh_CN/story/obt/memory/story_aglina_1_1.md",
+    "ArknightsOperator/塔露拉.md",
+    "ArknightsOperator/霜星.md",
+    "ArknightsOperator/弑君者.md",
+    "ArknightsOperator/审判官艾丽妮.md",
+    "ArknightsOperator/曼提柯杀手.md",
+    "ArknightsOperator/玛莉娅.md",
+    "ArknightsOperator/玛嘉烈.md",
+    "ArknightsOperator/林雨霞.md",
+    "ArknightsOperator/蕾缪安.md",
+    "ArknightsOperator/可露希尔.md",
+    "ArknightsOperator/赫德雷.md",
+    "ArknightsOperator/费德里科.md",
+    "ArknightsOperator/恩希欧迪斯.md",
+    "ArknightsOperator/大帝.md",
+    "ArknightsOperator/阿斯卡纶.md",
+    "ArknightsOperator/阿玛雅.md",
+    "ArknightsOperator/Mon3tr.md",
+    "ArknightsOperator/“沙卒”.md",
+    "ArknightsOperator/other/？？？？.md",
+    "ArknightsOperator/other",
+    "Pasted image 20230824025951.png",
+    "ArknightsOperator",
+    "operator",
+    "character_data_to_md.py",
+    "read_character_data_new.py",
+    "ArknightsGameData/zh_CN/excel/vc/vc_config.json",
+    "ArknightsGameData/zh_CN/excel/vc",
+    "ArknightsGameData/zh_CN/excel/zone_table.json",
+    "ArknightsGameData/zh_CN/excel/uniequip_table.json",
+    "ArknightsGameData/zh_CN/excel/uniequip_data.json"
   ]
 }
