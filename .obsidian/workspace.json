@@ -162,6 +162,12 @@
   },
   "active": "7c60a91dfc30d7d1",
   "lastOpenFiles": [
+    "image/README/1692981733714.png",
+    "image/README/1692981731459.png",
+    "image/README/1692981722019.png",
+    "image/README/1692981693734.png",
+    "image/README",
+    "image",
     "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_end.md",
     "ArknightsOperator/格拉尼.md",
     "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_beg.md",
@@ -192,7 +198,6 @@
     "ArknightsOperator/陈.md",
     "ArknightsOperator/陈晖洁.md",
     "ArknightsGameData/zh_CN/story/obt/memory/story_aglina_1_1.md",
-    "ArknightsOperator/塔露拉.md",
     "ArknightsOperator/other",
     "Pasted image 20230824025951.png",
     "ArknightsOperator",
@@ -200,8 +205,6 @@
     "character_data_to_md.py",
     "read_character_data_new.py",
     "ArknightsGameData/zh_CN/excel/vc/vc_config.json",
-    "ArknightsGameData/zh_CN/excel/vc",
-    "ArknightsGameData/zh_CN/excel/zone_table.json",
-    "ArknightsGameData/zh_CN/excel/uniequip_table.json"
+    "ArknightsGameData/zh_CN/excel/vc"
   ]
 }

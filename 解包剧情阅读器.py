@@ -57,7 +57,6 @@ def parse_arknights_story(file_path_name,save_path_name):
             jiexijuqing.append(i)
 
 
-
     with open(save_path_name, 'w', encoding='utf-8') as f:
         for i in jiexijuqing:
             f.write("\n"+i)
@@ -85,4 +84,7 @@ if __name__=='__main__':
         save_path2=file_path.split(path)[1]
         save_path_name=os.path.join(save_path+save_path2,file_name2+'.md')
         
-        parse_arknights_story(file_path_name,save_path_name)
+        if not os.path.exists(save_path_name):
+            parse_arknights_story(file_path_name, save_path_name)
+        else:
+            print(f"Markdown文件 '{save_name}' 已存在，跳过生成。")
