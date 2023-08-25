@@ -13,12 +13,14 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
 
 # 使用方法
 
+如果你想在这个基础上进行一些开发,则可以参考以下流程介绍每个功能的实现
+
 ## 1.准备数据
 
-从ArknightsGameDate数据库获取数据,放到根目录下即可.
-这里有两种方法(确保你已经安装了git):
+从ArknightsGameDate项目获取数据,放到根目录下即可.
+这里有两种引入方法(确保你已经安装了git):
 
-1. 在此目录运行命令行命令 `git clone https://github.com/Kengxxiao/ArknightsGameData.git` 直接克隆新的数据
+1. 直接克隆新的数据, 在此目录运行命令 `git clone https://github.com/Kengxxiao/ArknightsGameData.git`
 2. 使用[子模块](##以下是设置子模块的步骤：)引入数据, 参照下面的说明
 
 ## 2.处理数据
@@ -27,7 +29,6 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
 
 1. 解包剧情阅读器.py 用于解析剧情
 2. character_data_to_md.py 用于解析干员
-3. 运行Note Linker插件处理潜在链接,这一步耗时很长
 
 ## 3.数据预览
 
@@ -55,6 +56,16 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
    bashCopy code
    `git submodule update --remote`
    这会将子模块更新到最新的远程内容。
+
+
+## Obsidian的其他数据处理技巧
+
+1. 有些干员会有别名, 比如异客-"沙卒", 陈-陈晖洁, 这种情况下如果想要将两个人的md合并, 则需要指定一个主要md, 将别名添加到头文件的yaml字段中(也就是图中的Properties), 字段名为alias, 类型为list, 添加别名后, 图谱中的别名的md会指向此主md, 此时可以删除别名md文件
+2. 有些不是干员的剧情人物并不会被character_data_to_md.py脚本创建, 在我想出来解决办法之前需要手动创建, 从关系图谱或者某个剧情或者干员的md文件中点击灰色的超链接直接创建, 此时md内容是空的, 根据需要添加信息, 剧情说明, properties等等
+3. 如果有个干员的md文件已经创建, 但是有些对话中出现的, 想要在对话内容中展示的话, 可以运行Note Linker插件处理潜在链接, 这一步耗时极长, 需要耐心等待, 如果我在项目中运行过一次了, 克隆下来的内容就不需要再处理, 仅处理每次更新的新剧情即可
+
+不懂的地方参考Obsidian官方文档及插件文档
+
 
 ---
 

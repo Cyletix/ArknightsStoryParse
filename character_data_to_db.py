@@ -1,5 +1,5 @@
 '''
-Description: 新流程不再从'https://prts.wiki/w/'的html文件爬取,改用ArknightsGameData项目解包文件获取
+Description: 写入数据库,新流程不再从'https://prts.wiki/w/'的html文件爬取,改用ArknightsGameData项目解包文件获取
 Author: Cyletix
 Date: 2023-08-06 19:29:59
 LastEditTime: 2023-08-07 21:48:47
