@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "287017f2897971dd",
+            "id": "80c3f2145b9f6fd1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "c391395a2342d4f0",
+            "id": "7c60a91dfc30d7d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "凯尔希",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,6 +74,17 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "f4718fac586edd9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
@@ -93,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +124,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f4718fac586edd9f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -130,10 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,40 +155,44 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "287017f2897971dd",
+  "active": "7c60a91dfc30d7d1",
   "lastOpenFiles": [
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_end.md",
+    "ArknightsOperator/格拉尼.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_beg.md",
+    "Appendix/视频介绍稿.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/obt/memory/story_mberry_1_1.md",
+    "ArknightsGameData/zh_CN/story/activities/act18d0/training/training_act18d0_01_a.md",
+    "ArknightsGameData/zh_CN/story/activities/act25side/training/training_act25side_sp01_a.md",
+    "ArknightsGameData/zh_CN/story/activities/act12d6/level_act12d6_entry.md",
+    "ArknightsGameData/zh_CN/story/activities/act21side/task/text_ben_3_1_1.md",
+    "ArknightsGameData/zh_CN/story/activities/act13mini/level_act13mini_st05.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/act14side/level_act14side_st03.md",
+    "ArknightsGameData/zh_CN/story/obt/tutorial/level/main_00-08.md",
+    "Appendix/Pasted image 20230824032900.png",
     "README.md",
-    "ArknightsGameData/zh_CN/story/obt/guide/beg/2_guide_to_home.md",
-    "Pasted image 20230824033130.png",
+    "ArknightsGameData/ja_JP/story/activities/act17side/level_act17side_st02.md",
+    "Appendix",
+    "ArknightsOperator/--Operator--.md",
+    "ArknightsOperator/“沙卒”1.md",
+    "ArknightsOperator/异客.md",
     "ArknightsOperator/凯尔希.md",
-    "Pasted image 20230824033004.png",
-    "Pasted image 20230824032940.png",
-    "Pasted image 20230824032900.png",
+    "ArknightsOperator/--Arknights干员信息--.md",
+    "Pasted.md",
+    "ArknightsGameData/zh_CN/story/obt/memory/story_f12yin_2_1.md",
+    "ArknightsGameData/zh_CN/story/obt/guide/beg/2_guide_to_home.md",
+    "Appendix/Pasted image 20230824033130.png",
+    "Appendix/Pasted image 20230824033004.png",
+    "Appendix/Pasted image 20230824032940.png",
     "ArknightsOperator/陈.md",
     "ArknightsOperator/陈晖洁.md",
     "ArknightsGameData/zh_CN/story/obt/memory/story_aglina_1_1.md",
     "ArknightsOperator/塔露拉.md",
-    "ArknightsOperator/霜星.md",
-    "ArknightsOperator/弑君者.md",
-    "ArknightsOperator/审判官艾丽妮.md",
-    "ArknightsOperator/曼提柯杀手.md",
-    "ArknightsOperator/玛莉娅.md",
-    "ArknightsOperator/玛嘉烈.md",
-    "ArknightsOperator/林雨霞.md",
-    "ArknightsOperator/蕾缪安.md",
-    "ArknightsOperator/可露希尔.md",
-    "ArknightsOperator/赫德雷.md",
-    "ArknightsOperator/费德里科.md",
-    "ArknightsOperator/恩希欧迪斯.md",
-    "ArknightsOperator/大帝.md",
-    "ArknightsOperator/阿斯卡纶.md",
-    "ArknightsOperator/阿玛雅.md",
-    "ArknightsOperator/Mon3tr.md",
-    "ArknightsOperator/“沙卒”.md",
-    "ArknightsOperator/other/？？？？.md",
     "ArknightsOperator/other",
     "Pasted image 20230824025951.png",
     "ArknightsOperator",
@@ -190,7 +202,6 @@
     "ArknightsGameData/zh_CN/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/excel/vc",
     "ArknightsGameData/zh_CN/excel/zone_table.json",
-    "ArknightsGameData/zh_CN/excel/uniequip_table.json",
-    "ArknightsGameData/zh_CN/excel/uniequip_data.json"
+    "ArknightsGameData/zh_CN/excel/uniequip_table.json"
   ]
 }

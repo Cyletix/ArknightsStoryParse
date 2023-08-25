@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "path: (ArknightsGameData/zh_CN) OR -(ArknightsOperator)",
+  "search": "path:(ArknightsGameData/zh_CN OR ArknightsOperator)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.09848279251358003,
-  "close": false
+  "scale": 0.08841389359443802,
+  "close": true
 }
