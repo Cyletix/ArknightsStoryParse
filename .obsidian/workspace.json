@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80c3f2145b9f6fd1",
+            "id": "7f7fe607be23a8ff",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,21 +16,91 @@
               "state": {},
               "pinned": true
             }
+          }
+        ]
+      },
+      {
+        "id": "de8b9fb3cb760994",
+        "type": "split",
+        "children": [
+          {
+            "id": "7339a148ec9b7b99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e440d40500ff7a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Character/Operator/白铁.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "5aa8c821a2109ba5"
+              }
+            ]
           },
           {
-            "id": "7c60a91dfc30d7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+            "id": "e59b18e1606c5667",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "054a3ab7ae8ad1b9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Character/Operator/白铁.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:ArknightsOperator",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "path:ArknightsGameData",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5405920
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.4296781135874043,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "5aa8c821a2109ba5"
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -59,21 +129,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: 陈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "27f3d38438947dcd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -86,28 +148,22 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 249.5
-  },
-  "right": {
-    "id": "69d0bca4e67fb42e",
-    "type": "split",
-    "children": [
-      {
-        "id": "864eb085db4f8063",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "3b579326827b2700",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
           {
             "id": "bcc392e76e9db6d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Character/Operator/白铁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,24 +180,38 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Character/Operator/白铁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "69d0bca4e67fb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "373901e282bd88f8",
+        "type": "tabs",
+        "children": [
           {
             "id": "5837fd57f788fdd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Character/Operator/白铁.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,62 +220,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "dbfolder:创建一个新数据库表": false,
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7c60a91dfc30d7d1",
+  "active": "be433882746e54c7",
   "lastOpenFiles": [
+    "Character/Operator/初雪.md",
+    "Character/Operator/--Operator--.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
+    "Character/Operator",
+    "Character/Operator/但书.md",
+    "斐尔迪南.md",
+    "ArknightsGameData/zh_CN/story/activities/act19side/level/act19side_sub-1-1.md",
+    "Character/Operator/赫默.md",
+    "Character/Operator/暴雨.md",
+    "Character/Operator/Mon3tr.md",
+    "Character/Operator/凯尔希.md",
+    "ArknightsGameData/zh_CN/story/obt/main/level_main_11-13_beg.md",
+    "ArknightsGameData/zh_CN/story/obt/memory/story_glassb_1_1.md",
+    "Character/Operator/阿米娅.md",
+    "ArknightsGameData/zh_CN/story/obt/main/level_main_02-03_end.md",
+    "Character/Operator/阿玛雅.md",
+    "Character/Operator/阿.md",
+    "ArknightsGameData/zh_CN/story/activities/act13mini/level_act13mini_st01.md",
+    "ArknightsGameData/zh_CN/story/activities/act7d5/level_act7d5_st02.md",
+    "README.md",
+    "Character/Operator/陈.md",
+    "__pycache__/walkFile.cpython-311.pyc",
+    "__pycache__",
+    "Character/Operator/寒芒克洛丝.md",
+    "Character/Operator/克洛丝.md",
+    "Character/Operator/桑葚.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/act20side/level_act20side_09_end.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_end.md",
+    "Character/Operator/耀骑士临光.md",
     "character_data_to_db.py",
-    "视频介绍稿.md",
     "image/README/1692981733714.png",
     "image/README/1692981731459.png",
     "image/README/1692981722019.png",
     "image/README/1692981693734.png",
     "image/README",
     "image",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_end.md",
-    "ArknightsOperator/格拉尼.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_beg.md",
-    "Appendix/视频介绍稿.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/obt/memory/story_mberry_1_1.md",
-    "ArknightsGameData/zh_CN/story/activities/act18d0/training/training_act18d0_01_a.md",
-    "ArknightsGameData/zh_CN/story/activities/act25side/training/training_act25side_sp01_a.md",
-    "ArknightsGameData/zh_CN/story/activities/act12d6/level_act12d6_entry.md",
-    "ArknightsGameData/zh_CN/story/activities/act21side/task/text_ben_3_1_1.md",
-    "ArknightsGameData/zh_CN/story/activities/act13mini/level_act13mini_st05.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/act14side/level_act14side_st03.md",
-    "ArknightsGameData/zh_CN/story/obt/tutorial/level/main_00-08.md",
     "Appendix/Pasted image 20230824032900.png",
-    "README.md",
-    "ArknightsGameData/ja_JP/story/activities/act17side/level_act17side_st02.md",
     "Appendix",
-    "ArknightsOperator/--Operator--.md",
-    "ArknightsOperator/“沙卒”1.md",
-    "ArknightsOperator/异客.md",
-    "ArknightsOperator/凯尔希.md",
-    "ArknightsOperator/--Arknights干员信息--.md",
-    "Pasted.md",
-    "ArknightsGameData/zh_CN/story/obt/memory/story_f12yin_2_1.md",
-    "ArknightsGameData/zh_CN/story/obt/guide/beg/2_guide_to_home.md",
     "Appendix/Pasted image 20230824033130.png",
     "Appendix/Pasted image 20230824033004.png",
     "Appendix/Pasted image 20230824032940.png",
-    "ArknightsOperator/陈.md",
-    "ArknightsOperator/陈晖洁.md",
-    "ArknightsOperator/other",
+    "Character/other",
     "Pasted image 20230824025951.png",
-    "ArknightsOperator",
-    "operator",
-    "character_data_to_md.py",
-    "read_character_data_new.py",
-    "ArknightsGameData/zh_CN/excel/vc/vc_config.json",
-    "ArknightsGameData/zh_CN/excel/vc"
+    "Character",
+    "operator"
   ]
 }

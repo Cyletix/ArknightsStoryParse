@@ -8,7 +8,7 @@ with open(character_table_path, 'r', encoding='utf-8') as file:
     json_data = json.load(file)
 
 # 生成Markdown文件
-output_directory = 'ArknightsOperator'  # 替换为你想要保存Markdown文件的文件夹路径
+output_directory = 'Character/Operator'  # 替换为你想要保存Markdown文件的文件夹路径
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
