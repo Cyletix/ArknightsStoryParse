@@ -6,6 +6,7 @@
       {
         "id": "7b83f210578fccb8",
         "type": "tabs",
+        "dimension": 50.0805152979066,
         "children": [
           {
             "id": "7f7fe607be23a8ff",
@@ -16,12 +17,26 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0e02976b9c1e3fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "de8b9fb3cb760994",
         "type": "split",
+        "dimension": 49.9194847020934,
         "children": [
           {
             "id": "7339a148ec9b7b99",
@@ -33,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Character/Operator/白铁.md",
+                    "file": "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -52,7 +67,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Character/Operator/白铁.md",
+                    "file": "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -90,7 +105,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.4296781135874043,
+                      "scale": 0.2446651170155632,
                       "close": true
                     }
                   }
@@ -163,14 +178,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/白铁.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -180,14 +195,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/白铁.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Operator/白铁.md"
+                "file": "README.md"
               }
             }
           }
@@ -228,8 +242,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "be433882746e54c7",
+  "active": "0e02976b9c1e3fbb",
   "lastOpenFiles": [
+    "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
+    "Character/Operator/傀影.md",
+    "README.md",
+    "Character/Operator/白铁.md",
     "Character/Operator/初雪.md",
     "Character/Operator/--Operator--.md",
     "ArknightsGameData/zh_CN/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
@@ -249,16 +267,12 @@
     "Character/Operator/阿.md",
     "ArknightsGameData/zh_CN/story/activities/act13mini/level_act13mini_st01.md",
     "ArknightsGameData/zh_CN/story/activities/act7d5/level_act7d5_st02.md",
-    "README.md",
     "Character/Operator/陈.md",
     "__pycache__/walkFile.cpython-311.pyc",
     "__pycache__",
     "Character/Operator/寒芒克洛丝.md",
     "Character/Operator/克洛丝.md",
     "Character/Operator/桑葚.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/act20side/level_act20side_09_end.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/a001/level_a001_01_end.md",
-    "Character/Operator/耀骑士临光.md",
     "character_data_to_db.py",
     "image/README/1692981733714.png",
     "image/README/1692981731459.png",
