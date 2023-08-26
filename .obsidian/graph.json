@@ -3,9 +3,9 @@
   "search": "path:(ArknightsGameData/zh_CN OR Character)",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:(Character/Operator)",
@@ -23,15 +23,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.247713097713098,
   "collapse-forces": false,
-  "centerStrength": 0.824324324324324,
+  "centerStrength": 0.697765072765073,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.478888106493314,
-  "close": false
+  "linkDistance": 500,
+  "scale": 0.402520754234792,
+  "close": true
 }

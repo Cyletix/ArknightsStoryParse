@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b83f210578fccb8",
+        "id": "500d7565cc409bbf",
         "type": "tabs",
-        "dimension": 50.0805152979066,
         "children": [
           {
-            "id": "7f7fe607be23a8ff",
+            "id": "02c546c87bf8f309",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,84 +16,55 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0e02976b9c1e3fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "de8b9fb3cb760994",
+        "id": "aa02f66b5d5067a1",
         "type": "split",
-        "dimension": 49.9194847020934,
         "children": [
           {
-            "id": "7339a148ec9b7b99",
+            "id": "d7693fb84678ad92",
             "type": "tabs",
             "children": [
               {
-                "id": "1e440d40500ff7a9",
+                "id": "aadf18600df32665",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
+                    "file": "Character/Operator/黑.md",
                     "mode": "source",
                     "source": false
                   }
                 },
-                "group": "5aa8c821a2109ba5"
+                "group": "06c379cc0e65f673"
               }
             ]
           },
           {
-            "id": "e59b18e1606c5667",
+            "id": "15813a49f0bf4210",
             "type": "tabs",
             "children": [
               {
-                "id": "054a3ab7ae8ad1b9",
+                "id": "08eecfc398f13c9f",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
+                    "file": "Character/Operator/黑.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": true,
+                      "localInterlinks": false,
+                      "showTags": false,
                       "showAttachments": false,
-                      "hideUnresolved": true,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:ArknightsOperator",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14701138
-                          }
-                        },
-                        {
-                          "query": "path:ArknightsGameData",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5405920
-                          }
-                        }
-                      ],
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
                       "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
@@ -105,12 +75,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.2446651170155632,
+                      "scale": 0.7545958473691464,
                       "close": true
                     }
                   }
                 },
-                "group": "5aa8c821a2109ba5"
+                "group": "06c379cc0e65f673"
               }
             ]
           }
@@ -154,6 +124,61 @@
             }
           },
           {
+            "id": "bcc392e76e9db6d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character/Operator/黑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "be433882746e54c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Character/Operator/黑.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "69d0bca4e67fb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "373901e282bd88f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5837fd57f788fdd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character/Operator/黑.md"
+              }
+            }
+          },
+          {
             "id": "f4718fac586edd9f",
             "type": "leaf",
             "state": {
@@ -170,59 +195,6 @@
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "bcc392e76e9db6d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "be433882746e54c7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 249.5
-  },
-  "right": {
-    "id": "69d0bca4e67fb42e",
-    "type": "split",
-    "children": [
-      {
-        "id": "373901e282bd88f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5837fd57f788fdd3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
             }
           }
         ]
@@ -242,37 +214,37 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "0e02976b9c1e3fbb",
+  "active": "08eecfc398f13c9f",
   "lastOpenFiles": [
-    "ArknightsGameData/zh_CN/story/obt/roguelike/ro1/level_rogue1_ending_1.md",
-    "Character/Operator/傀影.md",
-    "README.md",
-    "Character/Operator/白铁.md",
-    "Character/Operator/初雪.md",
-    "Character/Operator/--Operator--.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
-    "Character/Operator",
-    "Character/Operator/但书.md",
-    "斐尔迪南.md",
-    "ArknightsGameData/zh_CN/story/activities/act19side/level/act19side_sub-1-1.md",
-    "Character/Operator/赫默.md",
-    "Character/Operator/暴雨.md",
+    "ArknightsGameData/zh_CN/story/obt/memory/story_vodfox_1_1.md",
+    "Character/Operator/巫恋.md",
+    "Character/Operator/蕾缪安.md",
+    "Character/Operator/林.md",
+    "Character/Operator/费德里科.md",
+    "Character/Operator/送葬人.md",
+    "Character/Operator/林雨霞.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/activities/act23side/level_act23side_08_end.md",
+    "ArknightsGameData/zh_CN/story/[uc]info/obt/main/level_st_12-01.md",
+    "Character/Operator/歌蕾蒂娅.md",
+    "ArknightsGameData/zh_CN/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_3.md",
+    "Character/Operator/斯卡蒂.md",
+    "Character/Operator/浊心斯卡蒂.md",
+    "ArknightsGameData/zh_CN/story/obt/memory/story_liskam_1_1.md",
+    "Character/Operator/雷蛇.md",
+    "Character/Operator/迷迭香.md",
     "Character/Operator/Mon3tr.md",
     "Character/Operator/凯尔希.md",
-    "ArknightsGameData/zh_CN/story/obt/main/level_main_11-13_beg.md",
-    "ArknightsGameData/zh_CN/story/obt/memory/story_glassb_1_1.md",
+    "视频介绍稿.md",
+    "Character/Operator/洛洛.md",
     "Character/Operator/阿米娅.md",
-    "ArknightsGameData/zh_CN/story/obt/main/level_main_02-03_end.md",
-    "Character/Operator/阿玛雅.md",
-    "Character/Operator/阿.md",
-    "ArknightsGameData/zh_CN/story/activities/act13mini/level_act13mini_st01.md",
-    "ArknightsGameData/zh_CN/story/activities/act7d5/level_act7d5_st02.md",
-    "Character/Operator/陈.md",
-    "__pycache__/walkFile.cpython-311.pyc",
-    "__pycache__",
+    "ArknightsGameData/zh_CN/story/obt/guide/beg/0_welcome_to_guide.md",
     "Character/Operator/寒芒克洛丝.md",
     "Character/Operator/克洛丝.md",
-    "Character/Operator/桑葚.md",
+    "Character/Operator/--Operator--.md",
+    "ArknightsGameData/zh_CN/story/activities/act15side/level_act15side_07_beg.md",
+    "Character/Operator",
+    "__pycache__/walkFile.cpython-311.pyc",
+    "__pycache__",
     "character_data_to_db.py",
     "image/README/1692981733714.png",
     "image/README/1692981731459.png",
