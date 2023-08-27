@@ -24,7 +24,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Character/Operator/阿赫茉妮.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 0.1846232812960305,
+                  "scale": 0.4296781135874051,
                   "close": true
                 }
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Operator/阿赫茉妮.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 弦",
+                "query": "&",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/阿赫茉妮.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/阿赫茉妮.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Operator/阿赫茉妮.md"
+                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md"
               }
             }
           },
@@ -225,11 +225,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "090bc5320d2033a3",
+  "active": "aadf18600df32665",
   "lastOpenFiles": [
+    "__pycache__/walkFile.cpython-311.pyc",
+    "__pycache__",
+    "test.py",
+    "Character/Operator/阿赫茉妮.md",
     "Character/other/拉芙希妮.md",
     "Character/other/爱布拉娜.md",
-    "Character/Operator/阿赫茉妮.md",
     "Character/Operator/陈晖洁.md",
     "Character/Operator/和弦.md",
     "Character/other/维恩.md",
@@ -253,7 +256,6 @@
     "Character/test1.md",
     "Character/test2.md",
     "Character/other/安多恩.md",
-    "Character/Operator/临光.md",
     "ArknightsGameData/zh_CN/gamedata/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/gamedata/excel/vc",
     "ArknightsGameData/zh_CN/gamedata/excel/zone_table.json",
@@ -262,8 +264,6 @@
     "ArknightsGameData/zh_CN/gamedata/excel/tip_table.json",
     "ArknightsGameData/zh_CN/gamedata/excel/token_table.json",
     "ArknightsGameData/zh_CN/gamedata/excel/tech_buff_table.json",
-    "ArknightsGameData/zh_CN/gamedata/excel/story_review_table.json",
-    "ArknightsGameData/zh_CN/gamedata/excel/story_table.json",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
