@@ -24,7 +24,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Character/拉菲艾拉.md",
+                "file": "Character/坎黛拉.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 0.5694148928667611,
+                  "scale": 0.3242333202184641,
                   "close": true
                 }
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/拉菲艾拉.md",
+                "file": "Character/坎黛拉.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/拉菲艾拉.md",
+                "file": "Character/坎黛拉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/拉菲艾拉.md",
+                "file": "Character/坎黛拉.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/拉菲艾拉.md"
+                "file": "Character/坎黛拉.md"
               }
             }
           },
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +229,8 @@
   },
   "active": "aadf18600df32665",
   "lastOpenFiles": [
+    "ArknightsGameData/zh_CN/story/activities/act12side/level_act12side_02_beg.md",
+    "Character/坎黛拉.md",
     "Character/埃内斯托.md",
     "Character/拉菲艾拉.md",
     "Character/Operator/凯尔希.md",
@@ -255,8 +258,6 @@
     "Character/D.D.D..md",
     "Character/Operator/星熊.md",
     "Character/other/米莎.md",
-    "Character/Operator/W.md",
-    "Character/other/碎骨.md",
     "Character/Operator",
     "__pycache__/walkFile.cpython-311.pyc",
     "__pycache__",
