@@ -35,6 +35,26 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
 1. 下载Obsidian, 使用Obsidian打开此文件夹, 并打开关系图谱
 2. 在关系图谱筛选条件里添加 `path:(ArknightsGameData/zh_CN OR ArknightsOperator)`, 主要是排除其他文件夹内容
 
+## 以下是设置子模块的步骤：
+
+1. **在主项目仓库中添加子模块：**
+   在主项目的根目录下，使用以下命令添加子模块：
+   bashCopy code
+   `git submodule add <URL to submodule> <path>`
+   其中，`<URL to submodule>` 是子项目的远程仓库 URL，`<path>` 是将子项目放置在主项目中的路径。
+2. **初始化和更新子模块：**
+   在主项目中添加子模块后，需要进行初始化和更新操作：
+   bashCopy code
+   `git submodule init git submodule update`
+   这将拉取子模块的内容到你的主项目中。
+3. **拉取子模块的更新：**
+   当子模块的远程仓库有更新时，你可以通过以下命令来拉取子模块的更新：
+   bashCopy code
+   `git submodule update --remote`
+   这会将子模块更新到最新的远程内容。
+
+---
+
 # 更新数据
 
 由Arknights版本更新造成的数据变动, 依赖于ArknightsGameDate的解包项目的更新, 当项目有更新后, 使用git命令拉取更新, 再运行一次处理数据的脚本即可
@@ -58,29 +78,7 @@ aliases:
  如果有个干员的md文件已经创建, 但是有些对话中出现的, 想要在对话内容中展示的话, 可以运行Note Linker插件处理潜在链接, 这一步耗时极长, 需要耐心等待, 如果我在项目中运行过一次了, 克隆下来的内容就不需要再处理, 仅处理每次更新的新剧情即可. 如果Note Linker实在是卡得动不了, 可以选择手动添加潜在的链接. 
 
 
-
----
-
-## 以下是设置子模块的步骤：
-
-1. **在主项目仓库中添加子模块：**
-   在主项目的根目录下，使用以下命令添加子模块：
-   bashCopy code
-   `git submodule add <URL to submodule> <path>`
-   其中，`<URL to submodule>` 是子项目的远程仓库 URL，`<path>` 是将子项目放置在主项目中的路径。
-2. **初始化和更新子模块：**
-   在主项目中添加子模块后，需要进行初始化和更新操作：
-   bashCopy code
-   `git submodule init git submodule update`
-   这将拉取子模块的内容到你的主项目中。
-3. **拉取子模块的更新：**
-   当子模块的远程仓库有更新时，你可以通过以下命令来拉取子模块的更新：
-   bashCopy code
-   `git submodule update --remote`
-   这会将子模块更新到最新的远程内容。
-
-
-## 效果展示
+# 效果展示
 
 在Obsidian里有点卡, 暂时先不展示了
 想展示在最前面加上叹号
@@ -88,3 +86,15 @@ aliases:
 [1692981722019](1692981722019.png)
 [1692981731459](1692981731459.png)
 [1692981733714](1692981733714.png)
+
+
+---
+# 接下来可能的工作
+## 别名处理
+假如以临光为主, 玛丽亚作为别名, 则需要想办法把剧情story中的玛丽亚改为别名形式, 如下: 
+\[玛丽亚\] ----> \[临光|玛丽亚\]
+
+
+## 干员档案数据
+暂时不知道怎么做, 如果不能从ArknightsGameData获取, 则只能写爬虫从PRTS获取了
+

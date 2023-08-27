@@ -24,7 +24,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Character/test_lg.md",
+                "file": "Character/Operator/阿赫茉妮.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 0.4296781135874051,
+                  "scale": 0.1846232812960305,
                   "close": true
                 }
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/test_lg.md",
+                "file": "Character/Operator/阿赫茉妮.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 陈",
+                "query": "file: 弦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/test_lg.md",
+                "file": "Character/Operator/阿赫茉妮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/test_lg.md",
+                "file": "Character/Operator/阿赫茉妮.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/test_lg.md"
+                "file": "Character/Operator/阿赫茉妮.md"
               }
             }
           },
@@ -208,8 +208,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,34 +225,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "aadf18600df32665",
+  "active": "090bc5320d2033a3",
   "lastOpenFiles": [
+    "Character/other/拉芙希妮.md",
+    "Character/other/爱布拉娜.md",
+    "Character/Operator/阿赫茉妮.md",
+    "Character/Operator/陈晖洁.md",
+    "Character/Operator/和弦.md",
+    "Character/other/维恩.md",
+    "Character/other/莫兰.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act22side/level_act22side_08_end.md",
+    "Character/other/曼弗雷德.md",
+    "Character/other/特蕾西娅.md",
+    "Character/other/赦罪师.md",
+    "Character/other/摄政王.md",
+    "Character/other/魏彦吾.md",
+    "Character/other/文月.md",
+    "Character/other/影卫.md",
+    "Character/Operator/陈.md",
+    "Character/Operator/假日威龙陈.md",
+    "Character/Operator/--Operator--.md",
+    "Character/other/Dijkstra.md",
     "Character/test_story.md",
     "Character/test_lg.md",
+    "README.md",
+    "总览.canvas",
     "Character/test1.md",
     "Character/test2.md",
     "Character/other/安多恩.md",
     "Character/Operator/临光.md",
-    "Character/Operator/玛莉娅.md",
-    "Character/other/圣徒卡门.md",
-    "ArknightsGameData/zh_CN/gamedata/story/activities/act17side/level_act17side_st04.md",
-    "Character/other/Alty.md",
-    "Character/other/Aya.md",
-    "Character/other/Dan.md",
-    "Character/Operator/斯卡蒂.md",
-    "Character/Operator/浊心斯卡蒂.md",
-    "Character/Operator/Touch.md",
-    "Character/Operator/梅尔.md",
-    "Character/Thermal-EX.md",
-    "Character/Operator/THRM-EX.md",
-    "Character/Operator/斑点.md",
-    "ArknightsGameData/zh_CN/gamedata/story/obt/memory/story_glassb_1_1.md",
-    "Character/Operator/阿米娅.md",
-    "ArknightsGameData/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st02.md",
-    "Character/other/魏文月.md",
-    "Character/Operator/陈.md",
-    "Character/Operator/假日威龙陈.md",
-    "Character/Operator/火龙S黑角.md",
     "ArknightsGameData/zh_CN/gamedata/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/gamedata/excel/vc",
     "ArknightsGameData/zh_CN/gamedata/excel/zone_table.json",
@@ -265,7 +265,6 @@
     "ArknightsGameData/zh_CN/gamedata/excel/story_review_table.json",
     "ArknightsGameData/zh_CN/gamedata/excel/story_table.json",
     "Appendix/image/README/1692981693734.png",
-    "总览.canvas",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
     "Appendix/image/README/1692981722019.png",
