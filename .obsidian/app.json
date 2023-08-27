@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "ArknightsOperator",
-  "alwaysUpdateLinks": true
+  "newFileFolderPath": "Character",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "image"
 }

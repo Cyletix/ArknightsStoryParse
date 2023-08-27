@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e3cb6488587aeb77","type":"text","text":"# 出现斯卡蒂的剧情\n```dataview\nTABLE \nFROM [[斯卡蒂]]\n```\n","x":-241,"y":-73,"width":321,"height":1713},
+		{"id":"f9af86f2b9f3caa7","type":"text","text":"# 出现幽灵鲨的剧情\n```dataview\nTABLE \nFROM [[幽灵鲨]]\n```\n","x":80,"y":-73,"width":360,"height":1713},
+		{"id":"dc8b9beea3d79f14","type":"text","text":"# 出现斯卡蒂和幽灵鲨的剧情\n```dataview\nTABLE \nFROM [[幽灵鲨]] AND [[斯卡蒂]]\n```\n","x":440,"y":-73,"width":360,"height":1713}
+	],
+	"edges":[]
+}

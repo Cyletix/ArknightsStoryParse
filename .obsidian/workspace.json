@@ -6,6 +6,7 @@
       {
         "id": "500d7565cc409bbf",
         "type": "tabs",
+        "dimension": 60.79088471849865,
         "children": [
           {
             "id": "02c546c87bf8f309",
@@ -16,76 +17,80 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "aa02f66b5d5067a1",
-        "type": "split",
-        "children": [
-          {
-            "id": "d7693fb84678ad92",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aadf18600df32665",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Character/Operator/黑.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "06c379cc0e65f673"
-              }
-            ]
           },
           {
-            "id": "15813a49f0bf4210",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "08eecfc398f13c9f",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Character/Operator/黑.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7545958473691464,
-                      "close": true
+            "id": "08eecfc398f13c9f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Character/拉菲艾拉.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:(Character/Operator)",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:ArknightsGameData",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5405920
+                      }
                     }
-                  }
-                },
-                "group": "06c379cc0e65f673"
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.5,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.528976091476092,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 58,
+                  "scale": 0.5694148928667611,
+                  "close": true
+                }
               }
-            ]
+            },
+            "group": "06c379cc0e65f673"
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "d7693fb84678ad92",
+        "type": "tabs",
+        "dimension": 39.20911528150134,
+        "children": [
+          {
+            "id": "aadf18600df32665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/拉菲艾拉.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "06c379cc0e65f673"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/黑.md",
+                "file": "Character/拉菲艾拉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +151,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/黑.md",
+                "file": "Character/拉菲艾拉.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "69d0bca4e67fb42e",
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Operator/黑.md"
+                "file": "Character/拉菲艾拉.md"
               }
             }
           },
@@ -214,44 +217,46 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "08eecfc398f13c9f",
+  "active": "aadf18600df32665",
   "lastOpenFiles": [
-    "ArknightsGameData/zh_CN/story/obt/memory/story_vodfox_1_1.md",
-    "Character/Operator/巫恋.md",
-    "Character/Operator/蕾缪安.md",
-    "Character/Operator/林.md",
-    "Character/Operator/费德里科.md",
-    "Character/Operator/送葬人.md",
-    "Character/Operator/林雨霞.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/activities/act23side/level_act23side_08_end.md",
-    "ArknightsGameData/zh_CN/story/[uc]info/obt/main/level_st_12-01.md",
-    "Character/Operator/歌蕾蒂娅.md",
-    "ArknightsGameData/zh_CN/story/obt/rogue/rogue_2/endbook/endbook_rogue_2_3_3.md",
-    "Character/Operator/斯卡蒂.md",
-    "Character/Operator/浊心斯卡蒂.md",
-    "ArknightsGameData/zh_CN/story/obt/memory/story_liskam_1_1.md",
-    "Character/Operator/雷蛇.md",
-    "Character/Operator/迷迭香.md",
-    "Character/Operator/Mon3tr.md",
+    "Character/埃内斯托.md",
+    "Character/拉菲艾拉.md",
     "Character/Operator/凯尔希.md",
-    "视频介绍稿.md",
-    "Character/Operator/洛洛.md",
-    "Character/Operator/阿米娅.md",
-    "ArknightsGameData/zh_CN/story/obt/guide/beg/0_welcome_to_guide.md",
-    "Character/Operator/寒芒克洛丝.md",
-    "Character/Operator/克洛丝.md",
-    "Character/Operator/--Operator--.md",
-    "ArknightsGameData/zh_CN/story/activities/act15side/level_act15side_07_beg.md",
+    "Character/霍克.md",
+    "Character/科西切.md",
+    "Character/Operator/可露希尔.md",
+    "ArknightsGameData/zh_CN/story/obt/main/level_st_09-04.md",
+    "Character/Guard.md",
+    "Character/Dijkstra.md",
+    "Character/test1.md",
+    "Appendix/image/README/1692981693734.png",
+    "README.md",
+    "Appendix",
+    "Character/test2.md",
+    "Character/test3.md",
+    "总览.canvas",
+    "Character/testyi.md",
+    "Character/“皇帝的利刃”.md",
+    "ArknightsGameData/zh_CN/story/obt/main/level_main_08-13_beg.md",
+    "Character/Operator/陈.md",
+    "Character/皇帝内卫？.md",
+    "Character/九.md",
+    "ArknightsGameData/zh_CN/story/obt/main/level_st_08-06.md",
+    "Character/魏彦吾.md",
+    "Character/D.D.D..md",
+    "Character/Operator/星熊.md",
+    "Character/other/米莎.md",
+    "Character/Operator/W.md",
+    "Character/other/碎骨.md",
     "Character/Operator",
     "__pycache__/walkFile.cpython-311.pyc",
     "__pycache__",
     "character_data_to_db.py",
-    "image/README/1692981733714.png",
-    "image/README/1692981731459.png",
-    "image/README/1692981722019.png",
-    "image/README/1692981693734.png",
-    "image/README",
-    "image",
+    "Appendix/image/README/1692981733714.png",
+    "Appendix/image/README/1692981731459.png",
+    "Appendix/image/README/1692981722019.png",
+    "Appendix/image/README",
+    "Appendix/image",
     "Appendix/Pasted image 20230824032900.png",
     "Appendix",
     "Appendix/Pasted image 20230824033130.png",
@@ -259,7 +264,6 @@
     "Appendix/Pasted image 20230824032940.png",
     "Character/other",
     "Pasted image 20230824025951.png",
-    "Character",
-    "operator"
+    "Character"
   ]
 }
