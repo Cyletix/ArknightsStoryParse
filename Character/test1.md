@@ -1,7 +1,7 @@
 ---
 aliases:
   - testyi
-  - "[[testyi]]"
+  - "[[test_lg]]"
 ---
 [[test2]]
-[[test3]]
+[[test_story]]

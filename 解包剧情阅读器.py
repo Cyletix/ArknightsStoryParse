@@ -65,13 +65,17 @@ def parse_arknights_story(file_path_name,save_path_name):
 
 if __name__=='__main__':
     path=r"ArknightsGameData"
-    story_language=input('请选择story语言(1.Chinese; 2.Japanese; 3.English;):')
-    if story_language==1:
-        path+='\zh_CN\story'
-    elif story_language==2:
-        path+='\ja_JP\story'
-    elif story_language==3:
-        path+='\en_US\story'
+    story_language = input('请选择story语言(1.Chinese; 2.Japanese; 3.English;):')
+    if story_language == '1':
+        path += r'\zh_CN\story'
+    elif story_language == '2':
+        path += r'\ja_JP\story'
+    elif story_language == '3':
+        path += r'\en_US\story'
+    else:
+        print("无效的选择")
+        exit(1)
+
 
     path=r"ArknightsGameData\zh_CN\story"# 目前仅支持chinese, 多语言会巨卡
 

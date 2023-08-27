@@ -3,5 +3,5 @@ aliases:
   - tester
   - "[[tester]]"
 ---
-[[testyi]]
-[[test3|testsan]]
+[[test_lg]]
+[[test_story|testsan]]
