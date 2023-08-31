@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Character",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "image"
+  "attachmentFolderPath": "image",
+  "promptDelete": false
 }

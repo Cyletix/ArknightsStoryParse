@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,71 +23,69 @@
         ]
       },
       {
-        "id": "9b933cc02aeead69",
-        "type": "tabs",
+        "id": "d0167f73fd42afe7",
+        "type": "split",
         "children": [
           {
-            "id": "02c546c87bf8f309",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "08eecfc398f13c9f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:(Character/Operator)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:ArknightsGameData",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5405920
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.5,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.528976091476092,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 58,
-                  "scale": 0.5694148928667611,
-                  "close": true
+            "id": "9b933cc02aeead69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02c546c87bf8f309",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
                 }
               }
-            },
-            "group": "06c379cc0e65f673"
+            ]
+          },
+          {
+            "id": "ddfc56dbd0975f87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08eecfc398f13c9f",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7545958862742644,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "06c379cc0e65f673"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -116,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md"
               }
             }
           },
@@ -218,14 +217,32 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "dbfolder:创建一个新数据库表": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "dbfolder:创建一个新数据库表": false
     }
   },
   "active": "aadf18600df32665",
   "lastOpenFiles": [
-    "Character/other/克丽斯腾.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act13d0/level_act13d0_st04.md",
+    "Character/test_lg.md",
+    "Character/test2.md",
+    "Character/test1.md",
+    "Character/test_story.md",
+    "Character/Operator/锡兰.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act3d0/level_act3d0_06_beg.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act3d0/level_act3d0_st01.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act25side/level_act25side_08_beg.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act17d0/level_act17d0_02_end.md",
+    "Character/西蒙娜.md",
+    "Character/Operator/寒檀.md",
+    "Character/PRTS.md",
+    "Character/Operator/麦哲伦.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st06.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/memory/story_otter_1_1.md",
     "README.md",
+    "视频介绍稿.md",
+    "总览.canvas",
+    "Character/other/克丽斯腾.md",
     "Character/克丽斯腾.md",
     "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
     "__pycache__/walkFile.cpython-311.pyc",
@@ -236,24 +253,6 @@
     "Character/other/爱布拉娜.md",
     "Character/Operator/陈晖洁.md",
     "Character/Operator/和弦.md",
-    "Character/other/维恩.md",
-    "Character/other/莫兰.md",
-    "ArknightsGameData/zh_CN/gamedata/story/activities/act22side/level_act22side_08_end.md",
-    "Character/other/曼弗雷德.md",
-    "Character/other/特蕾西娅.md",
-    "Character/other/赦罪师.md",
-    "Character/other/摄政王.md",
-    "Character/other/魏彦吾.md",
-    "Character/other/文月.md",
-    "Character/other/影卫.md",
-    "Character/Operator/陈.md",
-    "Character/Operator/假日威龙陈.md",
-    "Character/Operator/--Operator--.md",
-    "Character/other/Dijkstra.md",
-    "Character/test_story.md",
-    "Character/test_lg.md",
-    "总览.canvas",
-    "Character/test1.md",
     "ArknightsGameData/zh_CN/gamedata/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/gamedata/excel/vc",
     "ArknightsGameData/zh_CN/gamedata/excel/zone_table.json",
