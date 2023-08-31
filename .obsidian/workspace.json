@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_05-09_end.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
+                    "file": "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_05-09_end.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -75,7 +75,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7545958862742644,
+                      "scale": 0.7545958862742649,
                       "close": true
                     }
                   }
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正口",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_05-09_end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md",
+                "file": "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_05-09_end.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act15d0/level_act15d0_03_beg.md"
+                "file": "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_05-09_end.md"
               }
             }
           },
@@ -223,36 +223,36 @@
   },
   "active": "aadf18600df32665",
   "lastOpenFiles": [
-    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act13d0/level_act13d0_st04.md",
-    "Character/test_lg.md",
-    "Character/test2.md",
-    "Character/test1.md",
-    "Character/test_story.md",
-    "Character/Operator/锡兰.md",
-    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act3d0/level_act3d0_06_beg.md",
-    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act3d0/level_act3d0_st01.md",
-    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act25side/level_act25side_08_beg.md",
-    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act17d0/level_act17d0_02_end.md",
-    "Character/西蒙娜.md",
-    "Character/Operator/寒檀.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/memory/story_sunbr_2_1.md",
+    "Character/烈夏.md",
+    "Character/拉达.md",
+    "Character/娜塔莉娅.md",
+    "Character/罗莎琳.md",
+    "Character/索尼娅.md",
+    "Character/安娜.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st06.md",
+    "Character/Operator/临光.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_01-07_end.md",
+    "Character/Ace.md",
+    "Character/博士.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st03.md",
+    "Character/Scout.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act25side/level_act25side_st02.md",
     "Character/PRTS.md",
-    "Character/Operator/麦哲伦.md",
-    "ArknightsGameData/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st06.md",
-    "ArknightsGameData/zh_CN/gamedata/story/obt/memory/story_otter_1_1.md",
-    "README.md",
-    "视频介绍稿.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/main/level_main_02-01_beg.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act9d0/level_act9d0_02_end.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/obt/memory/story_prove_2_1.md",
+    "Character/伊内丝.md",
+    "Character/Operator/W.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act19side/training/training_act19side_01_b.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/tutorial/level/main_07-08.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/activities/act17d0/level_act17d0_02_beg.md",
+    "ArknightsGameData/zh_CN/gamedata/story/obt/tutorial/level/main_08-09.md",
+    "ArknightsGameData/zh_CN/gamedata/story/[uc]info/obt/main/level_main_05-06_beg.md",
     "总览.canvas",
-    "Character/other/克丽斯腾.md",
-    "Character/克丽斯腾.md",
-    "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
     "__pycache__/walkFile.cpython-311.pyc",
     "__pycache__",
     "test.py",
-    "Character/Operator/阿赫茉妮.md",
-    "Character/other/拉芙希妮.md",
-    "Character/other/爱布拉娜.md",
-    "Character/Operator/陈晖洁.md",
-    "Character/Operator/和弦.md",
     "ArknightsGameData/zh_CN/gamedata/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/gamedata/excel/vc",
     "ArknightsGameData/zh_CN/gamedata/excel/zone_table.json",
