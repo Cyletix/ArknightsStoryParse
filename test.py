@@ -7,7 +7,7 @@ juqing.append(r"""[name="能天使"] 牛逼""")
 juqing.append(r"""[name="拜松&能天使"]   又来？""")
 
 # 编译正则表达式模式
-re_mingzi = re.compile(r'\[name="([^"]+)"\]')
+re_mingzi = re.compile(r'\[name=".*"\]')
 re_duihua = re.compile(']\s*(.*)')
 re_huifu = re.compile('"(.*)",')
 re_xuanxiang = re.compile('"(.*)"')
@@ -51,3 +51,19 @@ for i in juqing:
 
 
 print(jiexijuqing)
+
+
+
+
+
+strings = ["[A]", "[A&B]", "[A&B&C]"]
+
+re_mingzi = re.compile(r'\[([^\]]+)\]')
+
+name_list = []
+
+for s in strings:
+    match = re_mingzi.match(s)
+    if match:
+        names = match.group(1).split('&')
+        name_list.extend(names)

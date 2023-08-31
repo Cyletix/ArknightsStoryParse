@@ -6,7 +6,25 @@
       {
         "id": "500d7565cc409bbf",
         "type": "tabs",
-        "dimension": 60.79088471849865,
+        "children": [
+          {
+            "id": "aadf18600df32665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "06c379cc0e65f673"
+          }
+        ]
+      },
+      {
+        "id": "9b933cc02aeead69",
+        "type": "tabs",
         "children": [
           {
             "id": "02c546c87bf8f309",
@@ -24,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,30 +80,9 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 58,
-                  "scale": 0.4296781135874051,
+                  "scale": 0.5694148928667611,
                   "close": true
                 }
-              }
-            },
-            "group": "06c379cc0e65f673"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d7693fb84678ad92",
-        "type": "tabs",
-        "dimension": 39.20911528150134,
-        "children": [
-          {
-            "id": "aadf18600df32665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
-                "mode": "source",
-                "source": false
               }
             },
             "group": "06c379cc0e65f673"
@@ -134,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md"
+                "file": "README.md"
               }
             }
           },
@@ -227,6 +224,10 @@
   },
   "active": "aadf18600df32665",
   "lastOpenFiles": [
+    "Character/other/克丽斯腾.md",
+    "README.md",
+    "Character/克丽斯腾.md",
+    "ArknightsGameData/zh_CN/gamedata/story/activities/act5d0/level_act5d0_08_beg.md",
     "__pycache__/walkFile.cpython-311.pyc",
     "__pycache__",
     "test.py",
@@ -251,11 +252,8 @@
     "Character/other/Dijkstra.md",
     "Character/test_story.md",
     "Character/test_lg.md",
-    "README.md",
     "总览.canvas",
     "Character/test1.md",
-    "Character/test2.md",
-    "Character/other/安多恩.md",
     "ArknightsGameData/zh_CN/gamedata/excel/vc/vc_config.json",
     "ArknightsGameData/zh_CN/gamedata/excel/vc",
     "ArknightsGameData/zh_CN/gamedata/excel/zone_table.json",
@@ -263,7 +261,6 @@
     "ArknightsGameData/zh_CN/gamedata/excel/uniequip_data.json",
     "ArknightsGameData/zh_CN/gamedata/excel/tip_table.json",
     "ArknightsGameData/zh_CN/gamedata/excel/token_table.json",
-    "ArknightsGameData/zh_CN/gamedata/excel/tech_buff_table.json",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
