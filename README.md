@@ -10,20 +10,31 @@ Fork自[arknightPlotReader](https://github.com/BRSblackshoot/arknightPlotReader)
 github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData "https://github.com/Kengxxiao/ArknightsGameData")
 
 ---
+# 目录
+## Appendix
+放置图片等附件杂项, 不重要
 
+## ArknightsGameData
+游戏的解包原数据, 这是引入别人的项目作为子模块, 本人不负责此内容的更新, 需要定期从此项目拉取更新, 由于是别人的项目作为子模块, 所以不要对ArknightsGameData中的文件进行任何改动, 否则同步时会出问题, 如果进行了改动也要在git工具中放弃更改. 如果修改过于复杂不知如何处理就都删掉, 重新引入子模块, 或许会遇到一些困难, 但能够根除问题
+
+## Character
+此文件夹下存放干员的markdown文件, 这些文件通过`character_data_to_md.py` 脚本解析生成, 在初次生成后再次执行脚本不会对现有的md文件更改或重新生成, 后续
+
+
+---
 # 使用方法
 
 如果你想在这个基础上进行一些开发,则可以参考以下流程介绍每个功能的实现
 
 ## 1.准备数据
 
-从ArknightsGameDate项目获取数据,放到根目录下即可.
+从ArknightsGameDate项目获取数据,作为子模块放到根目录下即可.
 这里有两种引入方法(确保你已经安装了git):
 
 1. 直接克隆新的数据, 在此目录运行命令 `git clone https://github.com/Kengxxiao/ArknightsGameData.git`
 2. 使用子模块引入数据, 参照下面的说明
 
-在本项目中我已经更改为使用子模块并引入过子项目了
+在本项目中我已经更改为使用子模块并引入过子模块ArknightsGameData了
 
 ## 2.处理数据
 
@@ -54,6 +65,8 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
    bashCopy code
    `git submodule update --remote`
    这会将子模块更新到最新的远程内容。
+   
+
 
 ---
 
@@ -91,9 +104,9 @@ aliases:
 [1692981731459](1692981731459.png)
 [1692981733714](1692981733714.png)
 
----
 
-# 接下来可能的工作
+---
+# 接下来可能进行的工作
 
 ## 多人对话处理
 

@@ -83,13 +83,17 @@ if __name__=='__main__':
 
     file_path_list=walkFile(path)
 
+    # for file_path_name in file_path_list:
+    #     file_path,file_name=os.path.split(file_path_name)
+    #     file_name2,ext_name=os.path.splitext(file_name)
+    #     # save_name = os.path.join(file_name+"_parse"+ext_name)
+    #     save_name=file_name
+    #     save_path2=file_path.split(path)[1]
+    #     save_path_name=os.path.join(save_path+save_path2,file_name2+'.md')
     for file_path_name in file_path_list:
-        file_path,file_name=os.path.split(file_path_name)
-        file_name2,ext_name=os.path.splitext(file_name)
-        # save_name = os.path.join(file_name+"_parse"+ext_name)
-        save_name=file_name
-        save_path2=file_path.split(path)[1]
-        save_path_name=os.path.join(save_path+save_path2,file_name2+'.md')
+        file_name = os.path.basename(file_path_name)
+        save_name = os.path.splitext(file_name)[0] + '.md'
+        save_path_name = os.path.join(save_path, file_name)
         
         if not os.path.exists(save_path_name):
             parse_arknights_story(file_path_name, save_path_name)

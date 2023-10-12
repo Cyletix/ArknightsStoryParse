@@ -6,13 +6,18 @@
       {
         "id": "500d7565cc409bbf",
         "type": "tabs",
+        "dimension": 65.54959785522789,
         "children": [
           {
             "id": "aadf18600df32665",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "06c379cc0e65f673"
           }
@@ -21,10 +26,12 @@
       {
         "id": "d0167f73fd42afe7",
         "type": "split",
+        "dimension": 34.45040214477212,
         "children": [
           {
             "id": "9b933cc02aeead69",
             "type": "tabs",
+            "dimension": 66.38349514563106,
             "children": [
               {
                 "id": "02c546c87bf8f309",
@@ -41,6 +48,7 @@
           {
             "id": "ddfc56dbd0975f87",
             "type": "tabs",
+            "dimension": 33.616504854368934,
             "children": [
               {
                 "id": "08eecfc398f13c9f",
@@ -48,6 +56,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -70,7 +79,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7545958862742649,
+                      "scale": 0.4296781357405581,
                       "close": true
                     }
                   }
@@ -124,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -221,10 +234,28 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "090bc5320d2033a3",
+  "active": "aadf18600df32665",
   "lastOpenFiles": [
-    "StoryParse/ja_JP",
-    "StoryParse/en_US",
+    "StoryParse/zh_CN/gamedata/story/0_building_control.txt",
+    "StoryParse/zh_CN/gamedata/story/0_campaign_stage.txt",
+    "StoryParse/zh_CN/gamedata/story/0_fstar_level.txt",
+    "StoryParse/zh_CN/gamedata/story/0_home_ui.txt",
+    "StoryParse/zh_CN/gamedata/story/0_mission_others.txt",
+    "StoryParse/zh_CN/gamedata/story/0_main_and_extraqc.txt",
+    "StoryParse/zh_CN/gamedata/story/0_recruit_normal.txt",
+    "StoryParse/zh_CN/gamedata/story/0_upgrade_char.txt",
+    "StoryParse/zh_CN/gamedata/story/0_upgrade_char_again.txt",
+    "StoryParse/zh_CN/gamedata/story/0_weekly_evolve.txt",
+    "StoryParse/zh_CN/gamedata/story/0_upgrade_skill.txt",
+    "总览.canvas",
+    "README.md",
+    "Character/罗德岛干员.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st02.md",
+    "Character/娜塔莉娅.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st01.md",
+    "Character/博士.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st05.md",
+    "Character/安娜.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_4.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_3.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_2.md",
@@ -242,24 +273,6 @@
     "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3.md",
     "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_2.md",
     "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_1.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_3.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_2.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_7_1.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_3.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_2.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_6_1.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_3.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_5_2.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/guide/beg",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act19side/level",
-    "StoryParse/zh_CN/gamedata/story/obt/roguelike/ro1/ref",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/endbook",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/memory",
-    "总览.canvas",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
