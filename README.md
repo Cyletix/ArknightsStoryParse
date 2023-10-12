@@ -1,6 +1,6 @@
-# 明日方舟剧情解析
+# 明日方舟剧情解析--Arknights虚拟世界探索者
 
-# 说明
+# 简介
 
 此项目用于从解包数据生成Arknights剧情和人物关联的markdown文件, 构建Obsidian仓库, 使用Obsidian打开此仓库可以展示人物和剧情之间的联系, 以便方舟文学家考古, 此项目首先在无精二群公开, 现分享到GitHub
 
@@ -10,15 +10,23 @@ Fork自[arknightPlotReader](https://github.com/BRSblackshoot/arknightPlotReader)
 github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData "https://github.com/Kengxxiao/ArknightsGameData")
 
 ---
-# 目录
+# 目录说明
 ## Appendix
 放置图片等附件杂项, 不重要
-
 ## ArknightsGameData
-游戏的解包原数据, 这是引入别人的项目作为子模块, 本人不负责此内容的更新, 需要定期从此项目拉取更新, 由于是别人的项目作为子模块, 所以不要对ArknightsGameData中的文件进行任何改动, 否则同步时会出问题, 如果进行了改动也要在git工具中放弃更改. 如果修改过于复杂不知如何处理就都删掉, 重新引入子模块, 或许会遇到一些困难, 但能够根除问题
+游戏的解包原数据, 这是引入别人的项目作为子模块, 本人不负责此内容的更新, 需要定期从此项目拉取更新. 
+
+由于是别人的项目作为子模块, 所以不要对ArknightsGameData中的文件进行任何改动, 否则同步时会出问题, 如果进行了改动也要在git工具中放弃更改. 
+
+如果修改过于复杂不知如何处理就都删掉, 重新引入子模块, 或许会遇到一些困难, 但能够根除问题. 
 
 ## Character
-此文件夹下存放干员的markdown文件, 这些文件通过`character_data_to_md.py` 脚本解析生成, 在初次生成后再次执行脚本不会对现有的md文件更改或重新生成, 后续
+此文件夹下存放干员的markdown文件, 这些文件通过`character_data_to_md.py` 脚本解析生成, 在初次生成后再次执行脚本不会对现有的md文件更改或重新生成, 除非改名或删除. 
+
+后续可以自行进行markdown文件的修改, 包括但不限于增加干员别名, 组织等额外的属性, 这个要看使用者的需求, 使用方法可自行查询markdown和Obsidian语法, 不需要特别复杂
+
+## StoryParse
+此文件夹下存放剧情的markdown文件, 这些文件通过`解包剧情阅读器.py` 脚本解析生成, 文件夹结构与ArknightsGameData保持一致, 即ArknightsGameData下的txt与StoryParse下的md文件是一一对应的, 相对路径也一致. 因为这样可以避免直接修改子模块的项目文件夹
 
 
 ---

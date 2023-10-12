@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -183,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,8 +230,9 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "aadf18600df32665",
+  "active": "02c546c87bf8f309",
   "lastOpenFiles": [
+    "README.md",
     "StoryParse/zh_CN/gamedata/story/0_building_control.txt",
     "StoryParse/zh_CN/gamedata/story/0_campaign_stage.txt",
     "StoryParse/zh_CN/gamedata/story/0_fstar_level.txt",
@@ -246,9 +243,7 @@
     "StoryParse/zh_CN/gamedata/story/0_upgrade_char.txt",
     "StoryParse/zh_CN/gamedata/story/0_upgrade_char_again.txt",
     "StoryParse/zh_CN/gamedata/story/0_weekly_evolve.txt",
-    "StoryParse/zh_CN/gamedata/story/0_upgrade_skill.txt",
     "总览.canvas",
-    "README.md",
     "Character/罗德岛干员.md",
     "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st02.md",
     "Character/娜塔莉娅.md",
