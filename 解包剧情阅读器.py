@@ -78,6 +78,7 @@ if __name__=='__main__':
 
 
     path=r"ArknightsGameData\\zh_CN\\gamedata\\story"# 目前仅支持chinese, 多语言会巨卡
+    save_path=r"StoryParse\\zh_CN\\gamedata\\story"
 
 
     file_path_list=walkFile(path)
@@ -87,7 +88,6 @@ if __name__=='__main__':
         file_name2,ext_name=os.path.splitext(file_name)
         # save_name = os.path.join(file_name+"_parse"+ext_name)
         save_name=file_name
-        save_path=path
         save_path2=file_path.split(path)[1]
         save_path_name=os.path.join(save_path+save_path2,file_name2+'.md')
         
