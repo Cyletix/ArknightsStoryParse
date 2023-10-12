@@ -1,7 +1,7 @@
 import json
 import os
 
-character_table_path = 'ArknightsGameData\zh_CN\excel\character_table.json'
+character_table_path = 'ArknightsGameData\zh_CN\gamedata\excel\character_table.json'
 
 # 读取JSON文件
 with open(character_table_path, 'r', encoding='utf-8') as file:

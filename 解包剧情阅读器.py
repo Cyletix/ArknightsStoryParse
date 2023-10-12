@@ -14,7 +14,7 @@ def parse_arknights_story(file_path_name,save_path_name):
     with open(file_path_name, 'r',encoding='utf-8') as f:
         juqing = f.readlines()
     # 编译正则表达式模式
-    re_mingzi = re.compile('name= ?"(.*)"')
+    re_mingzi = re.compile('''name= ?["'](.*)["']''')
     re_duihua = re.compile(']\s*(.*)')
     re_huifu = re.compile('"(.*)",')
     re_xuanxiang = re.compile('"(.*)"')
@@ -77,7 +77,7 @@ if __name__=='__main__':
     #     exit(1)
 
 
-    path=r"ArknightsGameData\zh_CN\gamedata\story"# 目前仅支持chinese, 多语言会巨卡
+    path=r"ArknightsGameData\\zh_CN\\gamedata\\story"# 目前仅支持chinese, 多语言会巨卡
 
 
     file_path_list=walkFile(path)
