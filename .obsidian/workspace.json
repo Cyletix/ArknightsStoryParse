@@ -6,86 +6,88 @@
       {
         "id": "500d7565cc409bbf",
         "type": "tabs",
-        "dimension": 65.54959785522789,
+        "dimension": 49.8389694041868,
         "children": [
           {
             "id": "aadf18600df32665",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "06c379cc0e65f673"
+              "type": "markdown",
+              "state": {
+                "file": "Character/Operator/戴菲恩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
-        "id": "d0167f73fd42afe7",
-        "type": "split",
-        "dimension": 34.45040214477212,
+        "id": "9b933cc02aeead69",
+        "type": "tabs",
+        "dimension": 50.1610305958132,
         "children": [
           {
-            "id": "9b933cc02aeead69",
-            "type": "tabs",
-            "dimension": 66.38349514563106,
-            "children": [
-              {
-                "id": "02c546c87bf8f309",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
+            "id": "02c546c87bf8f309",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           },
           {
-            "id": "ddfc56dbd0975f87",
-            "type": "tabs",
-            "dimension": 33.616504854368934,
-            "children": [
-              {
-                "id": "08eecfc398f13c9f",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-02.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.4296781357405581,
-                      "close": true
+            "id": "08eecfc398f13c9f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Character/Operator/戴菲恩.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:(Character/Operator)",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:ArknightsGameData",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5404128
+                      }
                     }
-                  }
-                },
-                "group": "06c379cc0e65f673"
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.40252075423479206,
+                  "close": true
+                }
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "戴菲恩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Character/Operator/戴菲恩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Character/Operator/戴菲恩.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Character/Operator/戴菲恩.md"
+              }
             }
           },
           {
@@ -229,6 +234,9 @@
   },
   "active": "aadf18600df32665",
   "lastOpenFiles": [
+    "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
+    "Character/Operator/戴菲恩.md",
+    "Character/Operator/推进之王.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-02.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_02-08.md",
     "README.md",
@@ -263,9 +271,6 @@
     "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act19side/level/act19side_sub-1-1.md",
     "StoryParse/zh_CN/gamedata/story/obt/roguelike/ro1/ref/ref_rogue_1_2.md",
-    "StoryParse/zh_CN/gamedata/story/obt/roguelike/ro1/ref/ref_rogue_1.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_3.md",
-    "StoryParse/zh_CN/gamedata/story/obt/rogue/rogue_2/monthrecord/month_chat_rogue_2_8_2.md",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
