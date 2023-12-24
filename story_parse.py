@@ -63,7 +63,7 @@ def parse_arknights_story(file_path_name,save_path_name):
 
 
 if __name__=='__main__':
-    path=r"ArknightsGameData"
+    # path=r"ArknightsGameData"
     # story_language = input('请选择story语言(1.Chinese; 2.Japanese; 3.English;):')
     # if story_language == '1':
     #     path += r'\zh_CN\story'
