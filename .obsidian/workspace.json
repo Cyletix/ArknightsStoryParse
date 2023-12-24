@@ -43,7 +43,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Character/Operator/戴菲恩.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/戴菲恩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/戴菲恩.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Character/Operator/戴菲恩.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,10 +229,10 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "aadf18600df32665",
+  "active": "02c546c87bf8f309",
   "lastOpenFiles": [
-    "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
     "Character/Operator/戴菲恩.md",
+    "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
     "Character/Operator/推进之王.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-02.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_02-08.md",
