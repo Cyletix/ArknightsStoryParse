@@ -3,7 +3,8 @@
 		{"id":"e3cb6488587aeb77","type":"text","text":"# 出现斯卡蒂的剧情\n```dataview\nTABLE \nFROM [[斯卡蒂]]\n```\n","x":-241,"y":-73,"width":321,"height":1713},
 		{"id":"f9af86f2b9f3caa7","type":"text","text":"# 出现幽灵鲨的剧情\n```dataview\nTABLE \nFROM [[幽灵鲨]]\n```\n","x":80,"y":-73,"width":360,"height":1713},
 		{"id":"dc8b9beea3d79f14","type":"text","text":"# 出现斯卡蒂和幽灵鲨的剧情\n```dataview\nTABLE \nFROM [[幽灵鲨]] AND [[斯卡蒂]]\n```\n","x":440,"y":-73,"width":360,"height":1713},
-		{"id":"1cfe3197335c3b4b","x":-214,"y":-602,"width":714,"height":482,"type":"text","text":"```dataview\nTABLE\nFROM \"Character/Operator\"\nLIMIT 8\n```"}
+		{"id":"1cfe3197335c3b4b","type":"text","text":"```dataview\nTABLE\nFROM \"Character/Operator\"\nLIMIT 8\n```","x":-214,"y":-602,"width":714,"height":482},
+		{"id":"d83ba6e6aec24c00","x":-1220,"y":-73,"width":964,"height":1713,"type":"file","file":"Character/Operator/--干员总览--.md"}
 	],
 	"edges":[]
 }

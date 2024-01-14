@@ -6,6 +6,7 @@
       {
         "id": "44080be50fab0a59",
         "type": "tabs",
+        "dimension": 60.6280193236715,
         "children": [
           {
             "id": "123215935d8a282f",
@@ -13,18 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+                "file": "Character/Operator/假日威龙陈.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "af373077e72fac1d"
+          },
+          {
+            "id": "4d2405147bd6e2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Operator/--干员总览--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
         "id": "4774ad338e4fda5e",
         "type": "split",
+        "dimension": 39.371980676328505,
         "children": [
           {
             "id": "c6170d8e5d37a7fa",
@@ -54,7 +68,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+                    "file": "Character/Operator/假日威龙陈.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -77,7 +91,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.32423332021846357,
+                      "scale": 0.7545958473691466,
                       "close": true
                     }
                   }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+                "file": "Character/Operator/假日威龙陈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+                "file": "Character/Operator/假日威龙陈.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md"
+                "file": "Character/Operator/假日威龙陈.md"
               }
             }
           },
@@ -234,10 +248,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "123215935d8a282f",
+  "active": "565e998244fc49c9",
   "lastOpenFiles": [
-    "Character/烛骑士.md",
+    "Character/Operator/--干员总览--.md",
+    "Character/Operator/假日威龙陈.md",
+    "Character/Operator/Mon3tr.md",
+    "总览.canvas",
+    "Character/Operator/Thermal-EX.md",
     "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+    "Character/烛骑士.md",
     "Character/Operator/玛莉娅.md",
     "Character/Operator/玛嘉烈.md",
     "Character/Operator/瑕光.md",
@@ -247,12 +266,10 @@
     "Character/三角铁.md",
     "Character/Operator/艾丽妮.md",
     "Character/Operator/审判官艾丽妮.md",
-    "Character/Operator/Thermal-EX.md",
     "Character/Operator/--Operator--.md",
     "[Character/Operator/THRM-EX.md",
     "[Character/Operator",
     "[Character",
-    "总览.canvas",
     "Character/Operator/凯尔希.md",
     "StoryParse/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st02.md",
     "Character/鬼姐.md",
@@ -262,9 +279,6 @@
     "StoryParse/zh_CN/gamedata/story/obt/memory/story_slchan_1_1.md",
     "Character/Operator/羽毛笔.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act5d0/level_act5d0_04_end.md",
-    "StoryParse/zh_CN/gamedata/story/activities/act12side/training/training_act12side_02_c.md",
-    "StoryParse/zh_CN/gamedata/story/activities/act1sandbox/battleavg/dialog_sandbox_0_default.md",
-    "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-11_b.md",
     "character_data_to_md_0.py",
     "character_data_to_md copy.py",
     "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
