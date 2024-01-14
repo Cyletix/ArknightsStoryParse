@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44080be50fab0a59",
+        "id": "92afb74781c0f20f",
         "type": "tabs",
-        "dimension": 60.6280193236715,
+        "dimension": 28.198258539852645,
         "children": [
-          {
-            "id": "123215935d8a282f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character/Operator/假日威龙陈.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "af373077e72fac1d"
-          },
           {
             "id": "4d2405147bd6e2d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Operator/--干员总览--.md",
+                "file": "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act12side/level_act12side_03_beg.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,9 +23,29 @@
         ]
       },
       {
+        "id": "44080be50fab0a59",
+        "type": "tabs",
+        "dimension": 40.589417280643005,
+        "children": [
+          {
+            "id": "123215935d8a282f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Operator/陈.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "af373077e72fac1d"
+          }
+        ]
+      },
+      {
         "id": "4774ad338e4fda5e",
         "type": "split",
-        "dimension": 39.371980676328505,
+        "dimension": 31.212324179504353,
         "children": [
           {
             "id": "c6170d8e5d37a7fa",
@@ -68,7 +75,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Character/Operator/假日威龙陈.md",
+                    "file": "Character/Operator/陈.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -91,7 +98,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7545958473691466,
+                      "scale": 1.0000000000000007,
                       "close": true
                     }
                   }
@@ -145,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/假日威龙陈.md",
+                "file": "Character/Operator/陈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/假日威龙陈.md",
+                "file": "Character/Operator/陈.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +183,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Operator/假日威龙陈.md"
+                "file": "Character/Operator/陈.md"
               }
             }
           },
@@ -248,8 +256,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "565e998244fc49c9",
+  "active": "123215935d8a282f",
   "lastOpenFiles": [
+    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act12side/level_act12side_03_beg.md",
+    "Character/Operator/陈.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act17d0/level_act17d0_08_end.md",
+    "Character/Operator/战车.md",
     "Character/Operator/--干员总览--.md",
     "Character/Operator/假日威龙陈.md",
     "Character/Operator/Mon3tr.md",
@@ -275,10 +287,6 @@
     "Character/鬼姐.md",
     "Character/Operator/预备干员-重装.md",
     "Character/梅菲斯特.md",
-    "Character/Other/恩希亚.md",
-    "StoryParse/zh_CN/gamedata/story/obt/memory/story_slchan_1_1.md",
-    "Character/Operator/羽毛笔.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act5d0/level_act5d0_04_end.md",
     "character_data_to_md_0.py",
     "character_data_to_md copy.py",
     "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
