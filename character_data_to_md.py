@@ -45,11 +45,12 @@ for char_key in json_data:
         
         markdown_filename = os.path.join(output_directory, f"{character_name}.md")
 
-        # if os.path.exists(markdown_filename):
-        #     print(f"Markdown文件 '{markdown_filename}' 已存在，跳过生成。")
-        #     continue
+        if os.path.exists(markdown_filename):
+            print(f"Markdown文件 '{markdown_filename}' 已存在，跳过生成。")
+            continue
 
         with open(markdown_filename, 'w', encoding='utf-8') as markdown_file:
             markdown_file.write(markdown_content)
-            
-print("Markdown文件已生成。")
+            print(f"Markdown文件 '{markdown_filename}' 解析成功")
+
+print("程序结束")

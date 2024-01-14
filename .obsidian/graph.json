@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:ArknightsGameData",
+      "query": "path:gamedata",
       "color": {
         "a": 1,
         "rgb": 5405920
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.247713097713098,
   "collapse-forces": false,
-  "centerStrength": 0.697765072765073,
+  "centerStrength": 0.495841995841996,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5334255603608057,
+  "scale": 0.17295436727648855,
   "close": true
 }

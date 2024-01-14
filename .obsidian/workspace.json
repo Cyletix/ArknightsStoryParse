@@ -8,29 +8,86 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f60d610d0fbc698",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "cd86a1f9d7102a33",
+            "id": "123215935d8a282f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Operator/羽毛笔.md",
+                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "af373077e72fac1d"
+          }
+        ]
+      },
+      {
+        "id": "4774ad338e4fda5e",
+        "type": "split",
+        "children": [
+          {
+            "id": "c6170d8e5d37a7fa",
+            "type": "tabs",
+            "dimension": 66.01941747572816,
+            "children": [
+              {
+                "id": "0f60d610d0fbc698",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "169f7318060c2859",
+            "type": "tabs",
+            "dimension": 33.980582524271846,
+            "children": [
+              {
+                "id": "565e998244fc49c9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.32423332021846357,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "af373077e72fac1d"
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -74,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Operator/羽毛笔.md",
+                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Operator/羽毛笔.md",
+                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Operator/羽毛笔.md"
+                "file": "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md"
               }
             }
           },
@@ -164,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,52 +231,52 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obisidian-note-linker:Note Linker": false,
-      "dbfolder:创建一个新数据库表": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "cd86a1f9d7102a33",
+  "active": "123215935d8a282f",
   "lastOpenFiles": [
+    "Character/烛骑士.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+    "Character/Operator/玛莉娅.md",
+    "Character/Operator/玛嘉烈.md",
+    "Character/Operator/瑕光.md",
+    "Character/Operator/星熊.md",
+    "Character/Operator/阿米娅.md",
+    "StoryParse/zh_CN/gamedata/story/obt/main/level_main_09-01_beg.md",
+    "Character/三角铁.md",
+    "Character/Operator/艾丽妮.md",
+    "Character/Operator/审判官艾丽妮.md",
+    "Character/Operator/Thermal-EX.md",
+    "Character/Operator/--Operator--.md",
+    "[Character/Operator/THRM-EX.md",
+    "[Character/Operator",
+    "[Character",
+    "总览.canvas",
+    "Character/Operator/凯尔希.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st02.md",
+    "Character/鬼姐.md",
+    "Character/Operator/预备干员-重装.md",
+    "Character/梅菲斯特.md",
+    "Character/Other/恩希亚.md",
+    "StoryParse/zh_CN/gamedata/story/obt/memory/story_slchan_1_1.md",
+    "Character/Operator/羽毛笔.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act5d0/level_act5d0_04_end.md",
     "StoryParse/zh_CN/gamedata/story/activities/act12side/training/training_act12side_02_c.md",
     "StoryParse/zh_CN/gamedata/story/activities/act1sandbox/battleavg/dialog_sandbox_0_default.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-11_b.md",
     "character_data_to_md_0.py",
-    "StoryParse/zh_CN/gamedata/story/activities/a001/level_a001_ex01_end.md",
-    "总览.canvas",
-    "character_table_flattened.md",
     "character_data_to_md copy.py",
-    "README.md",
-    "Character/Operator/莱伊.md",
-    "Character/Operator/温米.md",
     "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
     "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_3.txt",
     "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_2.txt",
     "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_1.txt",
     "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_4.txt",
     "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_3.txt",
-    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_2.txt",
-    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_1.txt",
-    "Character/Operator/戴菲恩.md",
-    "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
-    "Character/Operator/推进之王.md",
-    "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-02.md",
-    "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_02-08.md",
-    "Character/罗德岛干员.md",
-    "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st02.md",
-    "Character/娜塔莉娅.md",
-    "StoryParse/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st01.md",
-    "Character/博士.md",
-    "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st05.md",
-    "Character/安娜.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_4.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_3.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_2.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_1.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_4.md",
-    "Appendix/image/README/1692981693734.png",
-    "Appendix/image/README/1692981733714.png",
-    "Appendix/image/README/1692981731459.png",
-    "Appendix/image/README/1692981722019.png",
+    "--Appendix--/image/README/1692981693734.png",
+    "--Appendix--/image/README/1692981733714.png",
+    "--Appendix--/image/README/1692981731459.png",
+    "--Appendix--/image/README/1692981722019.png",
     "Appendix/Pasted image 20230824032900.png",
     "Appendix/Pasted image 20230824033130.png",
     "Appendix/Pasted image 20230824033004.png",

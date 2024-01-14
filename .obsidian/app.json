@@ -2,6 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Character",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "image",
-  "promptDelete": false
+  "attachmentFolderPath": "--Appendix--",
+  "promptDelete": false,
+  "defaultViewMode": "source"
 }
