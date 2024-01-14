@@ -1,8 +1,8 @@
 ---
 name: THRM-EX
 description: 不进行攻击，且不受<@ba.kw>部署数量</>限制，但再部署时间极长
-canUseGeneralPotentialItem: false
-canUseActivityPotentialItem: false
+canUseGeneralPotentialItem: False
+canUseActivityPotentialItem: False
 potentialItemId: p_char_376_therex
 activityPotentialItemId: None
 classicPotentialItemId: None
@@ -12,281 +12,258 @@ teamId: None
 displayNumber: RCX4
 appellation: Thermal-EX
 position: MELEE
-tagList:
-  - 支援机械
-  - 爆发
+tagList_0: 支援机械
+tagList_1: 爆发
 itemUsage: 罗德岛特种机器人Thermal-EX（亦作THRM-EX），被工程师可露希尔派来执行战地作战任务。
 itemDesc: 他知道自己是一台机器人。
 itemObtainApproach: 招募寻访
-isNotObtainable: false
-isSpChar: false
+isNotObtainable: False
+isSpChar: False
 maxPotentialLevel: 5
 rarity: TIER_1
 profession: SPECIAL
 subProfessionId: executor
 trait: None
-phases:
-  - characterPrefabKey: char_376_therex
-    rangeId: x-4
-    maxLevel: 30
-    attributesKeyFrames:
-      - level: 1
-        data:
-          maxHp: 1154
-          atk: 208
-          def: 354
-          magicResistance: 50
-          cost: 3
-          blockCnt: 0
-          moveSpeed: 1
-          attackSpeed: 100
-          baseAttackTime: 0.93
-          respawnTime: 200
-          hpRecoveryPerSec: 0
-          spRecoveryPerSec: 1
-          maxDeployCount: 1
-          maxDeckStackCnt: 0
-          tauntLevel: 0
-          massLevel: 0
-          baseForceLevel: 0
-          stunImmune: false
-          silenceImmune: false
-          sleepImmune: false
-          frozenImmune: false
-          levitateImmune: false
-      - level: 30
-        data:
-          maxHp: 1443
-          atk: 260
-          def: 443
-          magicResistance: 50
-          cost: 3
-          blockCnt: 0
-          moveSpeed: 1
-          attackSpeed: 100
-          baseAttackTime: 0.93
-          respawnTime: 200
-          hpRecoveryPerSec: 0
-          spRecoveryPerSec: 1
-          maxDeployCount: 1
-          maxDeckStackCnt: 0
-          tauntLevel: 0
-          massLevel: 0
-          baseForceLevel: 0
-          stunImmune: false
-          silenceImmune: false
-          sleepImmune: false
-          frozenImmune: false
-          levitateImmune: false
-    evolveCost: None
-skills: []
+phases_0_characterPrefabKey: char_376_therex
+phases_0_rangeId: x-4
+phases_0_maxLevel: 30
+phases_0_attributesKeyFrames_0_level: 1
+phases_0_attributesKeyFrames_0_data_maxHp: 1154
+phases_0_attributesKeyFrames_0_data_atk: 208
+phases_0_attributesKeyFrames_0_data_def: 354
+phases_0_attributesKeyFrames_0_data_magicResistance: 50.0
+phases_0_attributesKeyFrames_0_data_cost: 3
+phases_0_attributesKeyFrames_0_data_blockCnt: 0
+phases_0_attributesKeyFrames_0_data_moveSpeed: 1.0
+phases_0_attributesKeyFrames_0_data_attackSpeed: 100.0
+phases_0_attributesKeyFrames_0_data_baseAttackTime: 0.93
+phases_0_attributesKeyFrames_0_data_respawnTime: 200
+phases_0_attributesKeyFrames_0_data_hpRecoveryPerSec: 0.0
+phases_0_attributesKeyFrames_0_data_spRecoveryPerSec: 1.0
+phases_0_attributesKeyFrames_0_data_maxDeployCount: 1
+phases_0_attributesKeyFrames_0_data_maxDeckStackCnt: 0
+phases_0_attributesKeyFrames_0_data_tauntLevel: 0
+phases_0_attributesKeyFrames_0_data_massLevel: 0
+phases_0_attributesKeyFrames_0_data_baseForceLevel: 0
+phases_0_attributesKeyFrames_0_data_stunImmune: False
+phases_0_attributesKeyFrames_0_data_silenceImmune: False
+phases_0_attributesKeyFrames_0_data_sleepImmune: False
+phases_0_attributesKeyFrames_0_data_frozenImmune: False
+phases_0_attributesKeyFrames_0_data_levitateImmune: False
+phases_0_attributesKeyFrames_0_data_disarmedCombatImmune: False
+phases_0_attributesKeyFrames_1_level: 30
+phases_0_attributesKeyFrames_1_data_maxHp: 1443
+phases_0_attributesKeyFrames_1_data_atk: 260
+phases_0_attributesKeyFrames_1_data_def: 443
+phases_0_attributesKeyFrames_1_data_magicResistance: 50.0
+phases_0_attributesKeyFrames_1_data_cost: 3
+phases_0_attributesKeyFrames_1_data_blockCnt: 0
+phases_0_attributesKeyFrames_1_data_moveSpeed: 1.0
+phases_0_attributesKeyFrames_1_data_attackSpeed: 100.0
+phases_0_attributesKeyFrames_1_data_baseAttackTime: 0.93
+phases_0_attributesKeyFrames_1_data_respawnTime: 200
+phases_0_attributesKeyFrames_1_data_hpRecoveryPerSec: 0.0
+phases_0_attributesKeyFrames_1_data_spRecoveryPerSec: 1.0
+phases_0_attributesKeyFrames_1_data_maxDeployCount: 1
+phases_0_attributesKeyFrames_1_data_maxDeckStackCnt: 0
+phases_0_attributesKeyFrames_1_data_tauntLevel: 0
+phases_0_attributesKeyFrames_1_data_massLevel: 0
+phases_0_attributesKeyFrames_1_data_baseForceLevel: 0
+phases_0_attributesKeyFrames_1_data_stunImmune: False
+phases_0_attributesKeyFrames_1_data_silenceImmune: False
+phases_0_attributesKeyFrames_1_data_sleepImmune: False
+phases_0_attributesKeyFrames_1_data_frozenImmune: False
+phases_0_attributesKeyFrames_1_data_levitateImmune: False
+phases_0_attributesKeyFrames_1_data_disarmedCombatImmune: False
+phases_0_evolveCost: None
 displayTokenDict: None
-talents:
-  - candidates:
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 0
-        prefabKey: "1"
-        name: 延迟引爆·I
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力300%的物理伤害，并令其获得8秒10%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 3
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.1
-            valueStr: None
-        tokenKey: None
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 1
-        prefabKey: "1"
-        name: 延迟引爆·II
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力320%的物理伤害，并令其获得8秒18%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 3.2
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.18
-            valueStr: None
-        tokenKey: None
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 2
-        prefabKey: "1"
-        name: 延迟引爆·III
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力340%的物理伤害，并令其获得8秒21%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 3.4
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.21
-            valueStr: None
-        tokenKey: None
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 3
-        prefabKey: "1"
-        name: 延迟引爆·IV
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力360%的物理伤害，并令其获得8秒24%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 3.6
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.24
-            valueStr: None
-        tokenKey: None
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 4
-        prefabKey: "1"
-        name: 延迟引爆·V
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力380%的物理伤害，并令其获得8秒27%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 3.8
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.27
-            valueStr: None
-        tokenKey: None
-      - unlockCondition:
-          phase: PHASE_0
-          level: 1
-        requiredPotentialRank: 5
-        prefabKey: "1"
-        name: 延迟引爆·VI
-        description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力400%的物理伤害，并令其获得8秒30%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
-        rangeId: None
-        blackboard:
-          - key: interval
-            value: 3
-            valueStr: None
-          - key: damage_by_atk_scale
-            value: 4
-            valueStr: None
-          - key: weak[limit]
-            value: 8
-            valueStr: None
-          - key: damage_scale
-            value: 1.3
-            valueStr: None
-        tokenKey: None
-potentialRanks:
-  - type: CUSTOM
-    description: 天赋效果加强
-    buff: None
-    equivalentCost: None
-  - type: CUSTOM
-    description: 天赋效果加强
-    buff: None
-    equivalentCost: None
-  - type: CUSTOM
-    description: 天赋效果加强
-    buff: None
-    equivalentCost: None
-  - type: CUSTOM
-    description: 天赋效果加强
-    buff: None
-    equivalentCost: None
-  - type: CUSTOM
-    description: 天赋效果加强
-    buff: None
-    equivalentCost: None
-favorKeyFrames:
-  - level: 0
-    data:
-      maxHp: 0
-      atk: 0
-      def: 0
-      magicResistance: 0
-      cost: 0
-      blockCnt: 0
-      moveSpeed: 0
-      attackSpeed: 0
-      baseAttackTime: 0
-      respawnTime: 0
-      hpRecoveryPerSec: 0
-      spRecoveryPerSec: 0
-      maxDeployCount: 0
-      maxDeckStackCnt: 0
-      tauntLevel: 0
-      massLevel: 0
-      baseForceLevel: 0
-      stunImmune: false
-      silenceImmune: false
-      sleepImmune: false
-      frozenImmune: false
-      levitateImmune: false
-  - level: 50
-    data:
-      maxHp: 0
-      atk: 90
-      def: 0
-      magicResistance: 0
-      cost: 0
-      blockCnt: 0
-      moveSpeed: 0
-      attackSpeed: 0
-      baseAttackTime: 0
-      respawnTime: 0
-      hpRecoveryPerSec: 0
-      spRecoveryPerSec: 0
-      maxDeployCount: 0
-      maxDeckStackCnt: 0
-      tauntLevel: 0
-      massLevel: 0
-      baseForceLevel: 0
-      stunImmune: false
-      silenceImmune: false
-      sleepImmune: false
-      frozenImmune: false
-      levitateImmune: false
-allSkillLvlup: []
-aliases:
-  - "[[Thermal-EX]]"
+talents_0_candidates_0_unlockCondition_phase: PHASE_0
+talents_0_candidates_0_unlockCondition_level: 1
+talents_0_candidates_0_requiredPotentialRank: 0
+talents_0_candidates_0_prefabKey: 1
+talents_0_candidates_0_name: 延迟引爆·I
+talents_0_candidates_0_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力300%的物理伤害，并令其获得8秒10%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_0_rangeId: None
+talents_0_candidates_0_blackboard_0_key: interval
+talents_0_candidates_0_blackboard_0_value: 3.0
+talents_0_candidates_0_blackboard_0_valueStr: None
+talents_0_candidates_0_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_0_blackboard_1_value: 3.0
+talents_0_candidates_0_blackboard_1_valueStr: None
+talents_0_candidates_0_blackboard_2_key: weak[limit]
+talents_0_candidates_0_blackboard_2_value: 8.0
+talents_0_candidates_0_blackboard_2_valueStr: None
+talents_0_candidates_0_blackboard_3_key: damage_scale
+talents_0_candidates_0_blackboard_3_value: 1.1
+talents_0_candidates_0_blackboard_3_valueStr: None
+talents_0_candidates_0_tokenKey: None
+talents_0_candidates_1_unlockCondition_phase: PHASE_0
+talents_0_candidates_1_unlockCondition_level: 1
+talents_0_candidates_1_requiredPotentialRank: 1
+talents_0_candidates_1_prefabKey: 1
+talents_0_candidates_1_name: 延迟引爆·II
+talents_0_candidates_1_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力320%的物理伤害，并令其获得8秒18%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_1_rangeId: None
+talents_0_candidates_1_blackboard_0_key: interval
+talents_0_candidates_1_blackboard_0_value: 3.0
+talents_0_candidates_1_blackboard_0_valueStr: None
+talents_0_candidates_1_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_1_blackboard_1_value: 3.2
+talents_0_candidates_1_blackboard_1_valueStr: None
+talents_0_candidates_1_blackboard_2_key: weak[limit]
+talents_0_candidates_1_blackboard_2_value: 8.0
+talents_0_candidates_1_blackboard_2_valueStr: None
+talents_0_candidates_1_blackboard_3_key: damage_scale
+talents_0_candidates_1_blackboard_3_value: 1.18
+talents_0_candidates_1_blackboard_3_valueStr: None
+talents_0_candidates_1_tokenKey: None
+talents_0_candidates_2_unlockCondition_phase: PHASE_0
+talents_0_candidates_2_unlockCondition_level: 1
+talents_0_candidates_2_requiredPotentialRank: 2
+talents_0_candidates_2_prefabKey: 1
+talents_0_candidates_2_name: 延迟引爆·III
+talents_0_candidates_2_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力340%的物理伤害，并令其获得8秒21%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_2_rangeId: None
+talents_0_candidates_2_blackboard_0_key: interval
+talents_0_candidates_2_blackboard_0_value: 3.0
+talents_0_candidates_2_blackboard_0_valueStr: None
+talents_0_candidates_2_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_2_blackboard_1_value: 3.4
+talents_0_candidates_2_blackboard_1_valueStr: None
+talents_0_candidates_2_blackboard_2_key: weak[limit]
+talents_0_candidates_2_blackboard_2_value: 8.0
+talents_0_candidates_2_blackboard_2_valueStr: None
+talents_0_candidates_2_blackboard_3_key: damage_scale
+talents_0_candidates_2_blackboard_3_value: 1.21
+talents_0_candidates_2_blackboard_3_valueStr: None
+talents_0_candidates_2_tokenKey: None
+talents_0_candidates_3_unlockCondition_phase: PHASE_0
+talents_0_candidates_3_unlockCondition_level: 1
+talents_0_candidates_3_requiredPotentialRank: 3
+talents_0_candidates_3_prefabKey: 1
+talents_0_candidates_3_name: 延迟引爆·IV
+talents_0_candidates_3_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力360%的物理伤害，并令其获得8秒24%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_3_rangeId: None
+talents_0_candidates_3_blackboard_0_key: interval
+talents_0_candidates_3_blackboard_0_value: 3.0
+talents_0_candidates_3_blackboard_0_valueStr: None
+talents_0_candidates_3_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_3_blackboard_1_value: 3.6
+talents_0_candidates_3_blackboard_1_valueStr: None
+talents_0_candidates_3_blackboard_2_key: weak[limit]
+talents_0_candidates_3_blackboard_2_value: 8.0
+talents_0_candidates_3_blackboard_2_valueStr: None
+talents_0_candidates_3_blackboard_3_key: damage_scale
+talents_0_candidates_3_blackboard_3_value: 1.24
+talents_0_candidates_3_blackboard_3_valueStr: None
+talents_0_candidates_3_tokenKey: None
+talents_0_candidates_4_unlockCondition_phase: PHASE_0
+talents_0_candidates_4_unlockCondition_level: 1
+talents_0_candidates_4_requiredPotentialRank: 4
+talents_0_candidates_4_prefabKey: 1
+talents_0_candidates_4_name: 延迟引爆·V
+talents_0_candidates_4_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力380%的物理伤害，并令其获得8秒27%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_4_rangeId: None
+talents_0_candidates_4_blackboard_0_key: interval
+talents_0_candidates_4_blackboard_0_value: 3.0
+talents_0_candidates_4_blackboard_0_valueStr: None
+talents_0_candidates_4_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_4_blackboard_1_value: 3.8
+talents_0_candidates_4_blackboard_1_valueStr: None
+talents_0_candidates_4_blackboard_2_key: weak[limit]
+talents_0_candidates_4_blackboard_2_value: 8.0
+talents_0_candidates_4_blackboard_2_valueStr: None
+talents_0_candidates_4_blackboard_3_key: damage_scale
+talents_0_candidates_4_blackboard_3_value: 1.27
+talents_0_candidates_4_blackboard_3_valueStr: None
+talents_0_candidates_4_tokenKey: None
+talents_0_candidates_5_unlockCondition_phase: PHASE_0
+talents_0_candidates_5_unlockCondition_level: 1
+talents_0_candidates_5_requiredPotentialRank: 5
+talents_0_candidates_5_prefabKey: 1
+talents_0_candidates_5_name: 延迟引爆·VI
+talents_0_candidates_5_description: 部署经过3秒后，对周围8格内的所有敌人造成相当于攻击力400%的物理伤害，并令其获得8秒30%的<$ba.fragile>脆弱</>效果，之后自身强制退出战场
+talents_0_candidates_5_rangeId: None
+talents_0_candidates_5_blackboard_0_key: interval
+talents_0_candidates_5_blackboard_0_value: 3.0
+talents_0_candidates_5_blackboard_0_valueStr: None
+talents_0_candidates_5_blackboard_1_key: damage_by_atk_scale
+talents_0_candidates_5_blackboard_1_value: 4.0
+talents_0_candidates_5_blackboard_1_valueStr: None
+talents_0_candidates_5_blackboard_2_key: weak[limit]
+talents_0_candidates_5_blackboard_2_value: 8.0
+talents_0_candidates_5_blackboard_2_valueStr: None
+talents_0_candidates_5_blackboard_3_key: damage_scale
+talents_0_candidates_5_blackboard_3_value: 1.3
+talents_0_candidates_5_blackboard_3_valueStr: None
+talents_0_candidates_5_tokenKey: None
+potentialRanks_0_type: CUSTOM
+potentialRanks_0_description: 天赋效果加强
+potentialRanks_0_buff: None
+potentialRanks_0_equivalentCost: None
+potentialRanks_1_type: CUSTOM
+potentialRanks_1_description: 天赋效果加强
+potentialRanks_1_buff: None
+potentialRanks_1_equivalentCost: None
+potentialRanks_2_type: CUSTOM
+potentialRanks_2_description: 天赋效果加强
+potentialRanks_2_buff: None
+potentialRanks_2_equivalentCost: None
+potentialRanks_3_type: CUSTOM
+potentialRanks_3_description: 天赋效果加强
+potentialRanks_3_buff: None
+potentialRanks_3_equivalentCost: None
+potentialRanks_4_type: CUSTOM
+potentialRanks_4_description: 天赋效果加强
+potentialRanks_4_buff: None
+potentialRanks_4_equivalentCost: None
+favorKeyFrames_0_level: 0
+favorKeyFrames_0_data_maxHp: 0
+favorKeyFrames_0_data_atk: 0
+favorKeyFrames_0_data_def: 0
+favorKeyFrames_0_data_magicResistance: 0.0
+favorKeyFrames_0_data_cost: 0
+favorKeyFrames_0_data_blockCnt: 0
+favorKeyFrames_0_data_moveSpeed: 0.0
+favorKeyFrames_0_data_attackSpeed: 0.0
+favorKeyFrames_0_data_baseAttackTime: 0.0
+favorKeyFrames_0_data_respawnTime: 0
+favorKeyFrames_0_data_hpRecoveryPerSec: 0.0
+favorKeyFrames_0_data_spRecoveryPerSec: 0.0
+favorKeyFrames_0_data_maxDeployCount: 0
+favorKeyFrames_0_data_maxDeckStackCnt: 0
+favorKeyFrames_0_data_tauntLevel: 0
+favorKeyFrames_0_data_massLevel: 0
+favorKeyFrames_0_data_baseForceLevel: 0
+favorKeyFrames_0_data_stunImmune: False
+favorKeyFrames_0_data_silenceImmune: False
+favorKeyFrames_0_data_sleepImmune: False
+favorKeyFrames_0_data_frozenImmune: False
+favorKeyFrames_0_data_levitateImmune: False
+favorKeyFrames_0_data_disarmedCombatImmune: False
+favorKeyFrames_1_level: 50
+favorKeyFrames_1_data_maxHp: 0
+favorKeyFrames_1_data_atk: 90
+favorKeyFrames_1_data_def: 0
+favorKeyFrames_1_data_magicResistance: 0.0
+favorKeyFrames_1_data_cost: 0
+favorKeyFrames_1_data_blockCnt: 0
+favorKeyFrames_1_data_moveSpeed: 0.0
+favorKeyFrames_1_data_attackSpeed: 0.0
+favorKeyFrames_1_data_baseAttackTime: 0.0
+favorKeyFrames_1_data_respawnTime: 0
+favorKeyFrames_1_data_hpRecoveryPerSec: 0.0
+favorKeyFrames_1_data_spRecoveryPerSec: 0.0
+favorKeyFrames_1_data_maxDeployCount: 0
+favorKeyFrames_1_data_maxDeckStackCnt: 0
+favorKeyFrames_1_data_tauntLevel: 0
+favorKeyFrames_1_data_massLevel: 0
+favorKeyFrames_1_data_baseForceLevel: 0
+favorKeyFrames_1_data_stunImmune: False
+favorKeyFrames_1_data_silenceImmune: False
+favorKeyFrames_1_data_sleepImmune: False
+favorKeyFrames_1_data_frozenImmune: False
+favorKeyFrames_1_data_levitateImmune: False
+favorKeyFrames_1_data_disarmedCombatImmune: False
 ---
 
