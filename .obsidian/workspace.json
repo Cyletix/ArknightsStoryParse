@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "95796eed92cc7fac",
+        "id": "44080be50fab0a59",
         "type": "tabs",
         "children": [
           {
-            "id": "9896c873aa7342cf",
+            "id": "0f60d610d0fbc698",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cd86a1f9d7102a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character_table_flattened.md",
+                "file": "Character/Operator/羽毛笔.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "character_table_flattened.md",
+                "file": "Character/Operator/羽毛笔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "character_table_flattened.md",
+                "file": "Character/Operator/羽毛笔.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "character_table_flattened.md"
+                "file": "Character/Operator/羽毛笔.md"
               }
             }
           },
@@ -153,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +176,18 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "9896c873aa7342cf",
+  "active": "cd86a1f9d7102a33",
   "lastOpenFiles": [
+    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act5d0/level_act5d0_04_end.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act12side/training/training_act12side_02_c.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act1sandbox/battleavg/dialog_sandbox_0_default.md",
+    "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-11_b.md",
+    "character_data_to_md_0.py",
+    "StoryParse/zh_CN/gamedata/story/activities/a001/level_a001_ex01_end.md",
+    "总览.canvas",
+    "character_table_flattened.md",
     "character_data_to_md copy.py",
     "README.md",
-    "character_table_flattened.md",
     "Character/Operator/莱伊.md",
     "Character/Operator/温米.md",
     "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
@@ -181,9 +198,6 @@
     "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_3.txt",
     "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_2.txt",
     "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_1.txt",
-    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_3_4.txt",
-    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_2_4.txt",
-    "总览.canvas",
     "Character/Operator/戴菲恩.md",
     "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
     "Character/Operator/推进之王.md",
@@ -201,10 +215,6 @@
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_2.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro2/level_rogue2_ending_1.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_4.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_3.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_2.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/guide/beg/0_welcome_to_guide.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_1.md",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
