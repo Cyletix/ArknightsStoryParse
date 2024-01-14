@@ -44,11 +44,20 @@ github链接：[https://github.com/Kengxxiao/ArknightsGameData](https://github.c
 
 在本项目中我已经更改为使用子模块并引入过子模块ArknightsGameData了
 
+日常维护的话, 使用下面的命令:
+```bash
+cd ArknightsGameData
+git pull
+git commit -am "拉取最新干员数据"
+```
+运行目录位置不过多赘述, 自行查阅cd命令
+
 ## 2.处理数据
 
-如果没有需要的数据则运行 `解包剧情阅读器.py`, `character_data_to_md.py` 这两个文件, 分别解析剧情和干员的markdown文件
+得到最新干员解包数据后, 还需要两个脚本处理. 
+运行 `story_parse.py`, `character_data_to_md.py` 这两个python脚本, 分别解析剧情和干员的markdown文件
 
-1. 解包剧情阅读器.py 用于解析剧情
+1. story_parse.py 用于解析剧情
 2. character_data_to_md.py 用于解析干员
 
 ## 3.数据预览

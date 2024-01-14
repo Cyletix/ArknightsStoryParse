@@ -96,5 +96,6 @@ if __name__=='__main__':
         
         if not os.path.exists(save_path_name):
             parse_arknights_story(file_path_name, save_path_name)
+            print(f"Markdown文件 '{save_name}' 解析成功")
         # else:
         #     print(f"Markdown文件 '{save_name}' 已存在，跳过生成。")

@@ -4,85 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "500d7565cc409bbf",
+        "id": "95796eed92cc7fac",
         "type": "tabs",
-        "dimension": 49.8389694041868,
         "children": [
           {
-            "id": "aadf18600df32665",
+            "id": "9896c873aa7342cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Operator/戴菲恩.md",
+                "file": "character_table_flattened.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b933cc02aeead69",
-        "type": "tabs",
-        "dimension": 50.1610305958132,
-        "children": [
-          {
-            "id": "02c546c87bf8f309",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "08eecfc398f13c9f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:(Character/Operator)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:ArknightsGameData",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5404128
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 1,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.40252075423479206,
-                  "close": true
-                }
               }
             }
           }
@@ -130,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "character_table_flattened.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "character_table_flattened.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "character_table_flattened.md"
+              }
             }
           },
           {
@@ -229,25 +166,29 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "02c546c87bf8f309",
+  "active": "9896c873aa7342cf",
   "lastOpenFiles": [
+    "character_data_to_md copy.py",
+    "README.md",
+    "character_table_flattened.md",
+    "Character/Operator/莱伊.md",
+    "Character/Operator/温米.md",
+    "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_3.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_2.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_1.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_4.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_3.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_2.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_1.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_3_4.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_2_4.txt",
+    "总览.canvas",
     "Character/Operator/戴菲恩.md",
     "StoryParse/zh_CN/gamedata/story/obt/memory/story_kazema_1_1.md",
     "Character/Operator/推进之王.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_01-02.md",
     "StoryParse/zh_CN/gamedata/story/obt/tutorial/level/main_02-08.md",
-    "README.md",
-    "StoryParse/zh_CN/gamedata/story/0_building_control.txt",
-    "StoryParse/zh_CN/gamedata/story/0_campaign_stage.txt",
-    "StoryParse/zh_CN/gamedata/story/0_fstar_level.txt",
-    "StoryParse/zh_CN/gamedata/story/0_home_ui.txt",
-    "StoryParse/zh_CN/gamedata/story/0_mission_others.txt",
-    "StoryParse/zh_CN/gamedata/story/0_main_and_extraqc.txt",
-    "StoryParse/zh_CN/gamedata/story/0_recruit_normal.txt",
-    "StoryParse/zh_CN/gamedata/story/0_upgrade_char.txt",
-    "StoryParse/zh_CN/gamedata/story/0_upgrade_char_again.txt",
-    "StoryParse/zh_CN/gamedata/story/0_weekly_evolve.txt",
-    "总览.canvas",
     "Character/罗德岛干员.md",
     "StoryParse/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st02.md",
     "Character/娜塔莉娅.md",
@@ -264,10 +205,6 @@
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_2.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/guide/beg/0_welcome_to_guide.md",
     "StoryParse/zh_CN/gamedata/story/[uc]info/obt/roguelike/ro1/level_rogue1_ending_1.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/obt/guide/beg/2_guide_to_home.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act19side/level/act19side_sub-1-2.md",
-    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act19side/level/act19side_sub-1-1.md",
-    "StoryParse/zh_CN/gamedata/story/obt/roguelike/ro1/ref/ref_rogue_1_2.md",
     "Appendix/image/README/1692981693734.png",
     "Appendix/image/README/1692981733714.png",
     "Appendix/image/README/1692981731459.png",
