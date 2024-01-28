@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "3e409df397a81057",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa206ff033c1c78",
+        "type": "tabs",
+        "dimension": 13.395847287340926,
+        "children": [
+          {
+            "id": "7234b7c8bc9d4c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Operator/--干员总览--.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44080be50fab0a59",
+        "type": "tabs",
+        "dimension": 13.395847287340926,
+        "children": [
+          {
+            "id": "123215935d8a282f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Operator/阿米娅.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "af373077e72fac1d"
+          }
+        ]
+      },
+      {
+        "id": "4774ad338e4fda5e",
+        "type": "split",
+        "dimension": 73.20830542531816,
+        "children": [
+          {
+            "id": "c6170d8e5d37a7fa",
+            "type": "tabs",
+            "dimension": 66.01941747572816,
+            "children": [
+              {
+                "id": "0f60d610d0fbc698",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "169f7318060c2859",
+            "type": "tabs",
+            "dimension": 33.980582524271846,
+            "children": [
+              {
+                "id": "565e998244fc49c9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Character/Operator/阿米娅.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0000000000000007,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "af373077e72fac1d"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44f0c763aa206a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d69a1f9230a18c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090bc5320d2033a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0da8a5ab15fad11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "戴菲恩",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcc392e76e9db6d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "be433882746e54c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f7bb39fd2f80782b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "69d0bca4e67fb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "373901e282bd88f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5837fd57f788fdd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4718fac586edd9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b579326827b2700",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5400bcb3c8d5ee78",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obisidian-note-linker:Note Linker": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "0f60d610d0fbc698",
+  "lastOpenFiles": [
+    "Character/Operator/--干员总览--.md",
+    "Character/Operator/阿米娅.md",
+    "Character/Operator/陈.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act12side/level_act12side_01_end.md",
+    "总览.canvas",
+    "Character/Other/埃内斯托.md",
+    "StoryParse/zh_CN/gamedata/story/[uc]info/activities/act12side/level_act12side_03_beg.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act17d0/level_act17d0_08_end.md",
+    "Character/Operator/战车.md",
+    "Character/Operator/假日威龙陈.md",
+    "Character/Operator/Mon3tr.md",
+    "Character/Operator/Thermal-EX.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act13side/level_act13side_04_end.md",
+    "Character/烛骑士.md",
+    "Character/Operator/玛莉娅.md",
+    "Character/Operator/玛嘉烈.md",
+    "Character/Operator/瑕光.md",
+    "Character/Operator/星熊.md",
+    "StoryParse/zh_CN/gamedata/story/obt/main/level_main_09-01_beg.md",
+    "Character/三角铁.md",
+    "Character/Operator/艾丽妮.md",
+    "Character/Operator/审判官艾丽妮.md",
+    "Character/Operator/--Operator--.md",
+    "[Character/Operator/THRM-EX.md",
+    "[Character/Operator",
+    "[Character",
+    "Character/Operator/凯尔希.md",
+    "StoryParse/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st02.md",
+    "character_data_to_md_0.py",
+    "character_data_to_md copy.py",
+    "StoryParse/zh_CN/gamedata/story/level_rogue3_ending_4.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_3.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_2.txt",
+    "StoryParse/zh_CN/gamedata/story/month_record_rogue_3_7_1.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_4.txt",
+    "StoryParse/zh_CN/gamedata/story/endbook_rogue_3_4_3.txt",
+    "--Appendix--/image/README/1692981693734.png",
+    "--Appendix--/image/README/1692981733714.png",
+    "--Appendix--/image/README/1692981731459.png",
+    "--Appendix--/image/README/1692981722019.png",
+    "Appendix/Pasted image 20230824032900.png",
+    "Appendix/Pasted image 20230824033130.png",
+    "Appendix/Pasted image 20230824033004.png",
+    "Appendix/Pasted image 20230824032940.png",
+    "Pasted image 20230824025951.png"
+  ]
+}
